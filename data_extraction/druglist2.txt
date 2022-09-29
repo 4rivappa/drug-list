@@ -1,0 +1,4696 @@
+    {
+        "drugName": "Abilify",
+        "drugLink": "https://www.drugs.com/abilify.html"
+    },
+    {
+        "drugName": "Abilify Maintena",
+        "drugLink": "https://www.drugs.com/mtm/abilify-maintena-injection.html"
+    },
+    {
+        "drugName": "Abiraterone",
+        "drugLink": "https://www.drugs.com/abiraterone.html"
+    },
+    {
+        "drugName": "Acetaminophen",
+        "drugLink": "https://www.drugs.com/acetaminophen.html"
+    },
+    {
+        "drugName": "Acetaminophen and Hydrocodone",
+        "drugLink": "https://www.drugs.com/acetaminophen_hydrocodone.html"
+    },
+    {
+        "drugName": "Acetylcysteine",
+        "drugLink": "https://www.drugs.com/mtm/acetylcysteine.html"
+    },
+    {
+        "drugName": "Actos",
+        "drugLink": "https://www.drugs.com/actos.html"
+    },
+    {
+        "drugName": "Acyclovir",
+        "drugLink": "https://www.drugs.com/acyclovir.html"
+    },
+    {
+        "drugName": "Adderall",
+        "drugLink": "https://www.drugs.com/adderall.html"
+    },
+    {
+        "drugName": "Adderall XR",
+        "drugLink": "https://www.drugs.com/mtm/adderall-xr.html"
+    },
+    {
+        "drugName": "Advair Diskus",
+        "drugLink": "https://www.drugs.com/mtm/advair-diskus.html"
+    },
+    {
+        "drugName": "Advil",
+        "drugLink": "https://www.drugs.com/advil.html"
+    },
+    {
+        "drugName": "Afinitor",
+        "drugLink": "https://www.drugs.com/afinitor.html"
+    },
+    {
+        "drugName": "Aimovig",
+        "drugLink": "https://www.drugs.com/aimovig.html"
+    },
+    {
+        "drugName": "Ajovy",
+        "drugLink": "https://www.drugs.com/ajovy.html"
+    },
+    {
+        "drugName": "Albuterol",
+        "drugLink": "https://www.drugs.com/albuterol.html"
+    },
+    {
+        "drugName": "Aldactone",
+        "drugLink": "https://www.drugs.com/aldactone.html"
+    },
+    {
+        "drugName": "Alecensa",
+        "drugLink": "https://www.drugs.com/alecensa.html"
+    },
+    {
+        "drugName": "Alendronate",
+        "drugLink": "https://www.drugs.com/mtm/alendronate.html"
+    },
+    {
+        "drugName": "Aleve",
+        "drugLink": "https://www.drugs.com/aleve.html"
+    },
+    {
+        "drugName": "Alfuzosin",
+        "drugLink": "https://www.drugs.com/mtm/alfuzosin.html"
+    },
+    {
+        "drugName": "Allegra",
+        "drugLink": "https://www.drugs.com/allegra.html"
+    },
+    {
+        "drugName": "Allopurinol",
+        "drugLink": "https://www.drugs.com/allopurinol.html"
+    },
+    {
+        "drugName": "Alprazolam",
+        "drugLink": "https://www.drugs.com/alprazolam.html"
+    },
+    {
+        "drugName": "Alunbrig",
+        "drugLink": "https://www.drugs.com/alunbrig.html"
+    },
+    {
+        "drugName": "Amantadine",
+        "drugLink": "https://www.drugs.com/amantadine.html"
+    },
+    {
+        "drugName": "Amaryl",
+        "drugLink": "https://www.drugs.com/amaryl.html"
+    },
+    {
+        "drugName": "Ambien",
+        "drugLink": "https://www.drugs.com/ambien.html"
+    },
+    {
+        "drugName": "Amiodarone",
+        "drugLink": "https://www.drugs.com/amiodarone.html"
+    },
+    {
+        "drugName": "Amitriptyline",
+        "drugLink": "https://www.drugs.com/amitriptyline.html"
+    },
+    {
+        "drugName": "Amlodipine",
+        "drugLink": "https://www.drugs.com/amlodipine.html"
+    },
+    {
+        "drugName": "Amoxicillin",
+        "drugLink": "https://www.drugs.com/amoxicillin.html"
+    },
+    {
+        "drugName": "Amoxicillin and Clavulanate",
+        "drugLink": "https://www.drugs.com/amoxicillin_clavulanate.html"
+    },
+    {
+        "drugName": "Ampicillin",
+        "drugLink": "https://www.drugs.com/mtm/ampicillin.html"
+    },
+    {
+        "drugName": "Anastrozole",
+        "drugLink": "https://www.drugs.com/mtm/anastrozole.html"
+    },
+    {
+        "drugName": "AndroGel",
+        "drugLink": "https://www.drugs.com/androgel.html"
+    },
+    {
+        "drugName": "Annovera",
+        "drugLink": "https://www.drugs.com/annovera.html"
+    },
+    {
+        "drugName": "Apalutamide",
+        "drugLink": "https://www.drugs.com/apalutamide.html"
+    },
+    {
+        "drugName": "Apixaban",
+        "drugLink": "https://www.drugs.com/mtm/apixaban.html"
+    },
+    {
+        "drugName": "Apokyn",
+        "drugLink": "https://www.drugs.com/apokyn.html"
+    },
+    {
+        "drugName": "Apriso",
+        "drugLink": "https://www.drugs.com/apriso.html"
+    },
+    {
+        "drugName": "Aptiom",
+        "drugLink": "https://www.drugs.com/aptiom.html"
+    },
+    {
+        "drugName": "Aricept",
+        "drugLink": "https://www.drugs.com/aricept.html"
+    },
+    {
+        "drugName": "Arimidex",
+        "drugLink": "https://www.drugs.com/arimidex.html"
+    },
+    {
+        "drugName": "Aripiprazole",
+        "drugLink": "https://www.drugs.com/aripiprazole.html"
+    },
+    {
+        "drugName": "Aristada",
+        "drugLink": "https://www.drugs.com/aristada.html"
+    },
+    {
+        "drugName": "Aromasin",
+        "drugLink": "https://www.drugs.com/aromasin.html"
+    },
+    {
+        "drugName": "Aspirin",
+        "drugLink": "https://www.drugs.com/aspirin.html"
+    },
+    {
+        "drugName": "Atenolol",
+        "drugLink": "https://www.drugs.com/atenolol.html"
+    },
+    {
+        "drugName": "Ativan",
+        "drugLink": "https://www.drugs.com/ativan.html"
+    },
+    {
+        "drugName": "Atomoxetine",
+        "drugLink": "https://www.drugs.com/mtm/atomoxetine.html"
+    },
+    {
+        "drugName": "Atorvastatin",
+        "drugLink": "https://www.drugs.com/atorvastatin.html"
+    },
+    {
+        "drugName": "Atropine",
+        "drugLink": "https://www.drugs.com/cons/atropine.html"
+    },
+    {
+        "drugName": "Aubagio",
+        "drugLink": "https://www.drugs.com/aubagio.html"
+    },
+    {
+        "drugName": "Augmentin",
+        "drugLink": "https://www.drugs.com/augmentin.html"
+    },
+    {
+        "drugName": "Austedo",
+        "drugLink": "https://www.drugs.com/austedo.html"
+    },
+    {
+        "drugName": "Avsola",
+        "drugLink": "https://www.drugs.com/mtm/avsola.html"
+    },
+    {
+        "drugName": "Azathioprine",
+        "drugLink": "https://www.drugs.com/mtm/azathioprine.html"
+    },
+    {
+        "drugName": "Azelastine",
+        "drugLink": "https://www.drugs.com/pro/azelastine.html"
+    },
+    {
+        "drugName": "Azilect",
+        "drugLink": "https://www.drugs.com/azilect.html"
+    },
+    {
+        "drugName": "Azithromycin",
+        "drugLink": "https://www.drugs.com/azithromycin.html"
+    },
+    {
+        "drugName": "Azulfidine",
+        "drugLink": "https://www.drugs.com/mtm/azulfidine.html"
+    },
+    {
+        "drugName": "Bacitracin",
+        "drugLink": "https://www.drugs.com/pro/bacitracin.html"
+    },
+    {
+        "drugName": "Baclofen",
+        "drugLink": "https://www.drugs.com/baclofen.html"
+    },
+    {
+        "drugName": "Bactrim",
+        "drugLink": "https://www.drugs.com/bactrim.html"
+    },
+    {
+        "drugName": "Bactrim DS",
+        "drugLink": "https://www.drugs.com/cons/bactrim-ds.html"
+    },
+    {
+        "drugName": "Bactroban",
+        "drugLink": "https://www.drugs.com/bactroban.html"
+    },
+    {
+        "drugName": "Balsalazide",
+        "drugLink": "https://www.drugs.com/mtm/balsalazide.html"
+    },
+    {
+        "drugName": "Banzel",
+        "drugLink": "https://www.drugs.com/banzel.html"
+    },
+    {
+        "drugName": "Baqsimi",
+        "drugLink": "https://www.drugs.com/baqsimi.html"
+    },
+    {
+        "drugName": "Basaglar",
+        "drugLink": "https://www.drugs.com/basaglar.html"
+    },
+    {
+        "drugName": "Bavencio",
+        "drugLink": "https://www.drugs.com/bavencio.html"
+    },
+    {
+        "drugName": "Belbuca",
+        "drugLink": "https://www.drugs.com/belbuca.html"
+    },
+    {
+        "drugName": "Belsomra",
+        "drugLink": "https://www.drugs.com/belsomra.html"
+    },
+    {
+        "drugName": "Benadryl",
+        "drugLink": "https://www.drugs.com/benadryl.html"
+    },
+    {
+        "drugName": "Benazepril",
+        "drugLink": "https://www.drugs.com/mtm/benazepril.html"
+    },
+    {
+        "drugName": "Bendeka",
+        "drugLink": "https://www.drugs.com/mtm/bendeka.html"
+    },
+    {
+        "drugName": "Benicar",
+        "drugLink": "https://www.drugs.com/benicar.html"
+    },
+    {
+        "drugName": "Benlysta",
+        "drugLink": "https://www.drugs.com/benlysta.html"
+    },
+    {
+        "drugName": "Bentyl",
+        "drugLink": "https://www.drugs.com/bentyl.html"
+    },
+    {
+        "drugName": "Benzonatate",
+        "drugLink": "https://www.drugs.com/benzonatate.html"
+    },
+    {
+        "drugName": "Benztropine",
+        "drugLink": "https://www.drugs.com/mtm/benztropine.html"
+    },
+    {
+        "drugName": "Berinert",
+        "drugLink": "https://www.drugs.com/berinert.html"
+    },
+    {
+        "drugName": "Betadine",
+        "drugLink": "https://www.drugs.com/mtm/betadine.html"
+    },
+    {
+        "drugName": "Betamethasone",
+        "drugLink": "https://www.drugs.com/betamethasone-topical.html"
+    },
+    {
+        "drugName": "Biaxin",
+        "drugLink": "https://www.drugs.com/cons/biaxin.html"
+    },
+    {
+        "drugName": "Bicalutamide",
+        "drugLink": "https://www.drugs.com/bicalutamide.html"
+    },
+    {
+        "drugName": "Biktarvy",
+        "drugLink": "https://www.drugs.com/biktarvy.html"
+    },
+    {
+        "drugName": "Biotin",
+        "drugLink": "https://www.drugs.com/mtm/biotin.html"
+    },
+    {
+        "drugName": "Bisacodyl",
+        "drugLink": "https://www.drugs.com/pro/bisacodyl.html"
+    },
+    {
+        "drugName": "Bismuth subsalicylate",
+        "drugLink": "https://www.drugs.com/mtm/bismuth-subsalicylate.html"
+    },
+    {
+        "drugName": "Bisoprolol",
+        "drugLink": "https://www.drugs.com/bisoprolol.html"
+    },
+    {
+        "drugName": "Black Cohosh",
+        "drugLink": "https://www.drugs.com/npc/black-cohosh.html"
+    },
+    {
+        "drugName": "Blincyto",
+        "drugLink": "https://www.drugs.com/blincyto.html"
+    },
+    {
+        "drugName": "Boniva",
+        "drugLink": "https://www.drugs.com/boniva.html"
+    },
+    {
+        "drugName": "Botox",
+        "drugLink": "https://www.drugs.com/botox.html"
+    },
+    {
+        "drugName": "Breo Ellipta",
+        "drugLink": "https://www.drugs.com/breo-ellipta.html"
+    },
+    {
+        "drugName": "Breztri Aerosphere",
+        "drugLink": "https://www.drugs.com/breztri-aerosphere.html"
+    },
+    {
+        "drugName": "Brilinta",
+        "drugLink": "https://www.drugs.com/brilinta.html"
+    },
+    {
+        "drugName": "Brimonidine",
+        "drugLink": "https://www.drugs.com/pro/brimonidine.html"
+    },
+    {
+        "drugName": "Briviact",
+        "drugLink": "https://www.drugs.com/briviact.html"
+    },
+    {
+        "drugName": "Bromfed DM",
+        "drugLink": "https://www.drugs.com/pro/bromfed-dm.html"
+    },
+    {
+        "drugName": "Brukinsa",
+        "drugLink": "https://www.drugs.com/brukinsa.html"
+    },
+    {
+        "drugName": "Bryhali",
+        "drugLink": "https://www.drugs.com/mtm/bryhali.html"
+    },
+    {
+        "drugName": "Budesonide",
+        "drugLink": "https://www.drugs.com/mtm/budesonide.html"
+    },
+    {
+        "drugName": "Bumetanide",
+        "drugLink": "https://www.drugs.com/cons/bumetanide.html"
+    },
+    {
+        "drugName": "Bumex",
+        "drugLink": "https://www.drugs.com/cons/bumex.html"
+    },
+    {
+        "drugName": "Bunavail",
+        "drugLink": "https://www.drugs.com/bunavail.html"
+    },
+    {
+        "drugName": "Bupivacaine",
+        "drugLink": "https://www.drugs.com/mtm/bupivacaine.html"
+    },
+    {
+        "drugName": "Buprenex",
+        "drugLink": "https://www.drugs.com/buprenex.html"
+    },
+    {
+        "drugName": "Buprenorphine",
+        "drugLink": "https://www.drugs.com/buprenorphine.html"
+    },
+    {
+        "drugName": "Buprenorphine & Naloxone",
+        "drugLink": "https://www.drugs.com/mtm/buprenorphine-and-naloxone-oral-sublingual.html"
+    },
+    {
+        "drugName": "Bupropion",
+        "drugLink": "https://www.drugs.com/bupropion.html"
+    },
+    {
+        "drugName": "Buscopan",
+        "drugLink": "https://www.drugs.com/pro/buscopan.html"
+    },
+    {
+        "drugName": "Buspar",
+        "drugLink": "https://www.drugs.com/buspar.html"
+    },
+    {
+        "drugName": "Buspirone",
+        "drugLink": "https://www.drugs.com/buspirone.html"
+    },
+    {
+        "drugName": "Bystolic",
+        "drugLink": "https://www.drugs.com/bystolic.html"
+    },
+    {
+        "drugName": "Cabenuva",
+        "drugLink": "https://www.drugs.com/cabenuva.html"
+    },
+    {
+        "drugName": "Cabometyx",
+        "drugLink": "https://www.drugs.com/cabometyx.html"
+    },
+    {
+        "drugName": "Calcitonin",
+        "drugLink": "https://www.drugs.com/monograph/calcitonin.html"
+    },
+    {
+        "drugName": "Calcitriol",
+        "drugLink": "https://www.drugs.com/mtm/calcitriol.html"
+    },
+    {
+        "drugName": "Calquence",
+        "drugLink": "https://www.drugs.com/calquence.html"
+    },
+    {
+        "drugName": "Canasa",
+        "drugLink": "https://www.drugs.com/mtm/canasa-rectal.html"
+    },
+    {
+        "drugName": "Caplyta",
+        "drugLink": "https://www.drugs.com/caplyta.html"
+    },
+    {
+        "drugName": "Captopril",
+        "drugLink": "https://www.drugs.com/captopril.html"
+    },
+    {
+        "drugName": "Carbamazepine",
+        "drugLink": "https://www.drugs.com/carbamazepine.html"
+    },
+    {
+        "drugName": "Carvedilol",
+        "drugLink": "https://www.drugs.com/carvedilol.html"
+    },
+    {
+        "drugName": "Casodex",
+        "drugLink": "https://www.drugs.com/casodex.html"
+    },
+    {
+        "drugName": "Cefdinir",
+        "drugLink": "https://www.drugs.com/mtm/cefdinir.html"
+    },
+    {
+        "drugName": "Cefixime",
+        "drugLink": "https://www.drugs.com/mtm/cefixime.html"
+    },
+    {
+        "drugName": "Ceftriaxone",
+        "drugLink": "https://www.drugs.com/pro/ceftriaxone.html"
+    },
+    {
+        "drugName": "Cefuroxime",
+        "drugLink": "https://www.drugs.com/cons/cefuroxime.html"
+    },
+    {
+        "drugName": "Celebrex",
+        "drugLink": "https://www.drugs.com/celebrex.html"
+    },
+    {
+        "drugName": "Celecoxib",
+        "drugLink": "https://www.drugs.com/celecoxib.html"
+    },
+    {
+        "drugName": "Celexa",
+        "drugLink": "https://www.drugs.com/celexa.html"
+    },
+    {
+        "drugName": "Cephalexin",
+        "drugLink": "https://www.drugs.com/cephalexin.html"
+    },
+    {
+        "drugName": "Cequa",
+        "drugLink": "https://www.drugs.com/cequa.html"
+    },
+    {
+        "drugName": "Cetirizine",
+        "drugLink": "https://www.drugs.com/cetirizine-hcl.html"
+    },
+    {
+        "drugName": "Chlorpheniramine",
+        "drugLink": "https://www.drugs.com/mtm/chlorpheniramine.html"
+    },
+    {
+        "drugName": "Chlorthalidone",
+        "drugLink": "https://www.drugs.com/mtm/chlorthalidone.html"
+    },
+    {
+        "drugName": "Cholecalciferol",
+        "drugLink": "https://www.drugs.com/mtm/cholecalciferol.html"
+    },
+    {
+        "drugName": "Cialis",
+        "drugLink": "https://www.drugs.com/cialis.html"
+    },
+    {
+        "drugName": "Cimzia",
+        "drugLink": "https://www.drugs.com/cimzia.html"
+    },
+    {
+        "drugName": "Cinryze",
+        "drugLink": "https://www.drugs.com/cinryze.html"
+    },
+    {
+        "drugName": "Cipro",
+        "drugLink": "https://www.drugs.com/cipro.html"
+    },
+    {
+        "drugName": "Ciprofloxacin",
+        "drugLink": "https://www.drugs.com/ciprofloxacin.html"
+    },
+    {
+        "drugName": "Citalopram",
+        "drugLink": "https://www.drugs.com/citalopram.html"
+    },
+    {
+        "drugName": "Claritin",
+        "drugLink": "https://www.drugs.com/claritin.html"
+    },
+    {
+        "drugName": "Clindamycin",
+        "drugLink": "https://www.drugs.com/clindamycin.html"
+    },
+    {
+        "drugName": "Clobetasol",
+        "drugLink": "https://www.drugs.com/clobetasol-topical.html"
+    },
+    {
+        "drugName": "Clobex",
+        "drugLink": "https://www.drugs.com/mtm/clobex.html"
+    },
+    {
+        "drugName": "Clodan",
+        "drugLink": "https://www.drugs.com/mtm/clodan.html"
+    },
+    {
+        "drugName": "Clonazepam",
+        "drugLink": "https://www.drugs.com/clonazepam.html"
+    },
+    {
+        "drugName": "Clonidine",
+        "drugLink": "https://www.drugs.com/clonidine.html"
+    },
+    {
+        "drugName": "Clopidogrel",
+        "drugLink": "https://www.drugs.com/mtm/clopidogrel.html"
+    },
+    {
+        "drugName": "Clotrimazole",
+        "drugLink": "https://www.drugs.com/mtm/clotrimazole.html"
+    },
+    {
+        "drugName": "Clozapine",
+        "drugLink": "https://www.drugs.com/clozapine.html"
+    },
+    {
+        "drugName": "Codeine",
+        "drugLink": "https://www.drugs.com/codeine.html"
+    },
+    {
+        "drugName": "Colace",
+        "drugLink": "https://www.drugs.com/colace.html"
+    },
+    {
+        "drugName": "Colazal",
+        "drugLink": "https://www.drugs.com/mtm/colazal.html"
+    },
+    {
+        "drugName": "Colchicine",
+        "drugLink": "https://www.drugs.com/mtm/colchicine.html"
+    },
+    {
+        "drugName": "Concerta",
+        "drugLink": "https://www.drugs.com/concerta.html"
+    },
+    {
+        "drugName": "Coreg",
+        "drugLink": "https://www.drugs.com/coreg.html"
+    },
+    {
+        "drugName": "Cosentyx",
+        "drugLink": "https://www.drugs.com/cosentyx.html"
+    },
+    {
+        "drugName": "Coumadin",
+        "drugLink": "https://www.drugs.com/coumadin.html"
+    },
+    {
+        "drugName": "Cozaar",
+        "drugLink": "https://www.drugs.com/cozaar.html"
+    },
+    {
+        "drugName": "Crestor",
+        "drugLink": "https://www.drugs.com/crestor.html"
+    },
+    {
+        "drugName": "Cyanocobalamin",
+        "drugLink": "https://www.drugs.com/mtm/cyanocobalamin.html"
+    },
+    {
+        "drugName": "Cyclobenzaprine",
+        "drugLink": "https://www.drugs.com/cyclobenzaprine.html"
+    },
+    {
+        "drugName": "Cymbalta",
+        "drugLink": "https://www.drugs.com/cymbalta.html"
+    },
+    {
+        "drugName": "Dabigatran",
+        "drugLink": "https://www.drugs.com/mtm/dabigatran.html"
+    },
+    {
+        "drugName": "Dapagliflozin",
+        "drugLink": "https://www.drugs.com/dapagliflozin.html"
+    },
+    {
+        "drugName": "Darzalex",
+        "drugLink": "https://www.drugs.com/darzalex.html"
+    },
+    {
+        "drugName": "Dayvigo",
+        "drugLink": "https://www.drugs.com/dayvigo.html"
+    },
+    {
+        "drugName": "Decadron",
+        "drugLink": "https://www.drugs.com/mtm/decadron.html"
+    },
+    {
+        "drugName": "Degarelix",
+        "drugLink": "https://www.drugs.com/degarelix.html"
+    },
+    {
+        "drugName": "Delzicol",
+        "drugLink": "https://www.drugs.com/mtm/delzicol.html"
+    },
+    {
+        "drugName": "Demerol",
+        "drugLink": "https://www.drugs.com/demerol.html"
+    },
+    {
+        "drugName": "Denosumab",
+        "drugLink": "https://www.drugs.com/mtm/denosumab.html"
+    },
+    {
+        "drugName": "Depakote",
+        "drugLink": "https://www.drugs.com/depakote.html"
+    },
+    {
+        "drugName": "Depo-Provera",
+        "drugLink": "https://www.drugs.com/cons/depo-provera.html"
+    },
+    {
+        "drugName": "Descovy",
+        "drugLink": "https://www.drugs.com/descovy.html"
+    },
+    {
+        "drugName": "Desloratadine",
+        "drugLink": "https://www.drugs.com/mtm/desloratadine.html"
+    },
+    {
+        "drugName": "Desvenlafaxine",
+        "drugLink": "https://www.drugs.com/mtm/desvenlafaxine.html"
+    },
+    {
+        "drugName": "Desyrel",
+        "drugLink": "https://www.drugs.com/mtm/desyrel.html"
+    },
+    {
+        "drugName": "Dexamethasone",
+        "drugLink": "https://www.drugs.com/dexamethasone.html"
+    },
+    {
+        "drugName": "Dexilant",
+        "drugLink": "https://www.drugs.com/mtm/dexilant.html"
+    },
+    {
+        "drugName": "Dextroamphetamine",
+        "drugLink": "https://www.drugs.com/mtm/dextroamphetamine.html"
+    },
+    {
+        "drugName": "Dextromethorphan",
+        "drugLink": "https://www.drugs.com/dextromethorphan.html"
+    },
+    {
+        "drugName": "Dextrose",
+        "drugLink": "https://www.drugs.com/dextrose.html"
+    },
+    {
+        "drugName": "Diacomit",
+        "drugLink": "https://www.drugs.com/diacomit.html"
+    },
+    {
+        "drugName": "Diastat",
+        "drugLink": "https://www.drugs.com/mtm/diastat-acudial.html"
+    },
+    {
+        "drugName": "Diazepam",
+        "drugLink": "https://www.drugs.com/diazepam.html"
+    },
+    {
+        "drugName": "Diclofenac",
+        "drugLink": "https://www.drugs.com/diclofenac.html"
+    },
+    {
+        "drugName": "Dicyclomine",
+        "drugLink": "https://www.drugs.com/mtm/dicyclomine.html"
+    },
+    {
+        "drugName": "Diflucan",
+        "drugLink": "https://www.drugs.com/diflucan.html"
+    },
+    {
+        "drugName": "Digoxin",
+        "drugLink": "https://www.drugs.com/digoxin.html"
+    },
+    {
+        "drugName": "Dilantin",
+        "drugLink": "https://www.drugs.com/dilantin.html"
+    },
+    {
+        "drugName": "Dilaudid",
+        "drugLink": "https://www.drugs.com/dilaudid.html"
+    },
+    {
+        "drugName": "Diltiazem",
+        "drugLink": "https://www.drugs.com/diltiazem.html"
+    },
+    {
+        "drugName": "Dimenhydrinate",
+        "drugLink": "https://www.drugs.com/mtm/dimenhydrinate.html"
+    },
+    {
+        "drugName": "Diovan",
+        "drugLink": "https://www.drugs.com/diovan.html"
+    },
+    {
+        "drugName": "Dipentum",
+        "drugLink": "https://www.drugs.com/mtm/dipentum.html"
+    },
+    {
+        "drugName": "Diphenhydramine",
+        "drugLink": "https://www.drugs.com/diphenhydramine.html"
+    },
+    {
+        "drugName": "Diprolene",
+        "drugLink": "https://www.drugs.com/mtm/diprolene.html"
+    },
+    {
+        "drugName": "Divalproex sodium",
+        "drugLink": "https://www.drugs.com/mtm/divalproex-sodium.html"
+    },
+    {
+        "drugName": "Docusate Sodium",
+        "drugLink": "https://www.drugs.com/pro/docusate-sodium.html"
+    },
+    {
+        "drugName": "Donepezil",
+        "drugLink": "https://www.drugs.com/mtm/donepezil.html"
+    },
+    {
+        "drugName": "Dopamine",
+        "drugLink": "https://www.drugs.com/dopamine.html"
+    },
+    {
+        "drugName": "Doxazosin",
+        "drugLink": "https://www.drugs.com/doxazosin.html"
+    },
+    {
+        "drugName": "Doxepin",
+        "drugLink": "https://www.drugs.com/cons/doxepin.html"
+    },
+    {
+        "drugName": "Doxycycline",
+        "drugLink": "https://www.drugs.com/doxycycline.html"
+    },
+    {
+        "drugName": "Dramamine",
+        "drugLink": "https://www.drugs.com/mtm/dramamine.html"
+    },
+    {
+        "drugName": "Dulcolax",
+        "drugLink": "https://www.drugs.com/dulcolax.html"
+    },
+    {
+        "drugName": "Dulera",
+        "drugLink": "https://www.drugs.com/dulera.html"
+    },
+    {
+        "drugName": "Duloxetine",
+        "drugLink": "https://www.drugs.com/duloxetine.html"
+    },
+    {
+        "drugName": "DuoNeb",
+        "drugLink": "https://www.drugs.com/duoneb.html"
+    },
+    {
+        "drugName": "Duopa",
+        "drugLink": "https://www.drugs.com/duopa.html"
+    },
+    {
+        "drugName": "Dupixent",
+        "drugLink": "https://www.drugs.com/dupixent.html"
+    },
+    {
+        "drugName": "Dutasteride",
+        "drugLink": "https://www.drugs.com/mtm/dutasteride.html"
+    },
+    {
+        "drugName": "Ecotrin",
+        "drugLink": "https://www.drugs.com/mtm/ecotrin.html"
+    },
+    {
+        "drugName": "Effexor",
+        "drugLink": "https://www.drugs.com/cons/effexor.html"
+    },
+    {
+        "drugName": "Effexor XR",
+        "drugLink": "https://www.drugs.com/effexor.html"
+    },
+    {
+        "drugName": "Effient",
+        "drugLink": "https://www.drugs.com/effient.html"
+    },
+    {
+        "drugName": "Elagolix",
+        "drugLink": "https://www.drugs.com/mtm/elagolix.html"
+    },
+    {
+        "drugName": "Elavil",
+        "drugLink": "https://www.drugs.com/elavil.html"
+    },
+    {
+        "drugName": "Eligard",
+        "drugLink": "https://www.drugs.com/eligard.html"
+    },
+    {
+        "drugName": "Eliquis",
+        "drugLink": "https://www.drugs.com/eliquis.html"
+    },
+    {
+        "drugName": "Emgality",
+        "drugLink": "https://www.drugs.com/emgality.html"
+    },
+    {
+        "drugName": "Empagliflozin",
+        "drugLink": "https://www.drugs.com/mtm/empagliflozin.html"
+    },
+    {
+        "drugName": "Empaveli",
+        "drugLink": "https://www.drugs.com/empaveli.html"
+    },
+    {
+        "drugName": "Enalapril",
+        "drugLink": "https://www.drugs.com/enalapril.html"
+    },
+    {
+        "drugName": "Enbrel",
+        "drugLink": "https://www.drugs.com/enbrel.html"
+    },
+    {
+        "drugName": "Enoxaparin",
+        "drugLink": "https://www.drugs.com/mtm/enoxaparin.html"
+    },
+    {
+        "drugName": "Entecavir",
+        "drugLink": "https://www.drugs.com/mtm/entecavir.html"
+    },
+    {
+        "drugName": "Entresto",
+        "drugLink": "https://www.drugs.com/entresto.html"
+    },
+    {
+        "drugName": "Entyvio",
+        "drugLink": "https://www.drugs.com/entyvio.html"
+    },
+    {
+        "drugName": "Epclusa",
+        "drugLink": "https://www.drugs.com/epclusa.html"
+    },
+    {
+        "drugName": "Ephedrine",
+        "drugLink": "https://www.drugs.com/ephedrine.html"
+    },
+    {
+        "drugName": "Epidiolex",
+        "drugLink": "https://www.drugs.com/epidiolex.html"
+    },
+    {
+        "drugName": "EpiPen",
+        "drugLink": "https://www.drugs.com/epipen-auto-injector.html"
+    },
+    {
+        "drugName": "Eplerenone",
+        "drugLink": "https://www.drugs.com/mtm/eplerenone.html"
+    },
+    {
+        "drugName": "Epogen",
+        "drugLink": "https://www.drugs.com/epogen.html"
+    },
+    {
+        "drugName": "Ergocalciferol",
+        "drugLink": "https://www.drugs.com/mtm/ergocalciferol.html"
+    },
+    {
+        "drugName": "Erleada",
+        "drugLink": "https://www.drugs.com/erleada.html"
+    },
+    {
+        "drugName": "Ertapenem",
+        "drugLink": "https://www.drugs.com/mtm/ertapenem.html"
+    },
+    {
+        "drugName": "Erythromycin",
+        "drugLink": "https://www.drugs.com/erythromycin.html"
+    },
+    {
+        "drugName": "Erythromycin ophthalmic",
+        "drugLink": "https://www.drugs.com/mtm/erythromycin-ophthalmic.html"
+    },
+    {
+        "drugName": "Escitalopram",
+        "drugLink": "https://www.drugs.com/escitalopram.html"
+    },
+    {
+        "drugName": "Esomeprazole",
+        "drugLink": "https://www.drugs.com/mtm/esomeprazole.html"
+    },
+    {
+        "drugName": "Estrace",
+        "drugLink": "https://www.drugs.com/estrace.html"
+    },
+    {
+        "drugName": "Estradiol",
+        "drugLink": "https://www.drugs.com/estradiol.html"
+    },
+    {
+        "drugName": "Eszopiclone",
+        "drugLink": "https://www.drugs.com/mtm/eszopiclone.html"
+    },
+    {
+        "drugName": "Ethambutol",
+        "drugLink": "https://www.drugs.com/mtm/ethambutol.html"
+    },
+    {
+        "drugName": "Etodolac",
+        "drugLink": "https://www.drugs.com/etodolac.html"
+    },
+    {
+        "drugName": "Eulexin",
+        "drugLink": "https://www.drugs.com/cons/eulexin.html"
+    },
+    {
+        "drugName": "Euthyrox",
+        "drugLink": "https://www.drugs.com/euthyrox.html"
+    },
+    {
+        "drugName": "Evenity",
+        "drugLink": "https://www.drugs.com/evenity.html"
+    },
+    {
+        "drugName": "Evista",
+        "drugLink": "https://www.drugs.com/evista.html"
+    },
+    {
+        "drugName": "Evusheld",
+        "drugLink": "https://www.drugs.com/mtm/evusheld.html"
+    },
+    {
+        "drugName": "Excedrin",
+        "drugLink": "https://www.drugs.com/excedrin.html"
+    },
+    {
+        "drugName": "Exelon",
+        "drugLink": "https://www.drugs.com/exelon.html"
+    },
+    {
+        "drugName": "Exemestane",
+        "drugLink": "https://www.drugs.com/mtm/exemestane.html"
+    },
+    {
+        "drugName": "Ezetimibe",
+        "drugLink": "https://www.drugs.com/ezetimibe.html"
+    },
+    {
+        "drugName": "Famciclovir",
+        "drugLink": "https://www.drugs.com/mtm/famciclovir.html"
+    },
+    {
+        "drugName": "Famotidine",
+        "drugLink": "https://www.drugs.com/famotidine.html"
+    },
+    {
+        "drugName": "Farxiga",
+        "drugLink": "https://www.drugs.com/farxiga.html"
+    },
+    {
+        "drugName": "Fasenra",
+        "drugLink": "https://www.drugs.com/fasenra.html"
+    },
+    {
+        "drugName": "Faslodex",
+        "drugLink": "https://www.drugs.com/faslodex.html"
+    },
+    {
+        "drugName": "Febuxostat",
+        "drugLink": "https://www.drugs.com/mtm/febuxostat.html"
+    },
+    {
+        "drugName": "Felodipine",
+        "drugLink": "https://www.drugs.com/mtm/felodipine.html"
+    },
+    {
+        "drugName": "Femara",
+        "drugLink": "https://www.drugs.com/femara.html"
+    },
+    {
+        "drugName": "Fenofibrate",
+        "drugLink": "https://www.drugs.com/fenofibrate.html"
+    },
+    {
+        "drugName": "Fentanyl",
+        "drugLink": "https://www.drugs.com/fentanyl.html"
+    },
+    {
+        "drugName": "Ferrous fumarate",
+        "drugLink": "https://www.drugs.com/mtm/ferrous-fumarate.html"
+    },
+    {
+        "drugName": "Ferrous gluconate",
+        "drugLink": "https://www.drugs.com/mtm/ferrous-gluconate.html"
+    },
+    {
+        "drugName": "Ferrous Sulfate",
+        "drugLink": "https://www.drugs.com/ferrous_sulfate.html"
+    },
+    {
+        "drugName": "Fexofenadine",
+        "drugLink": "https://www.drugs.com/mtm/fexofenadine.html"
+    },
+    {
+        "drugName": "Finasteride",
+        "drugLink": "https://www.drugs.com/mtm/finasteride.html"
+    },
+    {
+        "drugName": "Fintepla",
+        "drugLink": "https://www.drugs.com/fintepla.html"
+    },
+    {
+        "drugName": "Fioricet",
+        "drugLink": "https://www.drugs.com/fioricet.html"
+    },
+    {
+        "drugName": "Firazyr",
+        "drugLink": "https://www.drugs.com/firazyr.html"
+    },
+    {
+        "drugName": "Firmagon",
+        "drugLink": "https://www.drugs.com/firmagon.html"
+    },
+    {
+        "drugName": "Fish Oil",
+        "drugLink": "https://www.drugs.com/fish_oil.html"
+    },
+    {
+        "drugName": "Flagyl",
+        "drugLink": "https://www.drugs.com/flagyl.html"
+    },
+    {
+        "drugName": "Flecainide",
+        "drugLink": "https://www.drugs.com/mtm/flecainide.html"
+    },
+    {
+        "drugName": "Flexeril",
+        "drugLink": "https://www.drugs.com/flexeril.html"
+    },
+    {
+        "drugName": "Flomax",
+        "drugLink": "https://www.drugs.com/flomax.html"
+    },
+    {
+        "drugName": "Flonase",
+        "drugLink": "https://www.drugs.com/flonase.html"
+    },
+    {
+        "drugName": "Flovent",
+        "drugLink": "https://www.drugs.com/flovent.html"
+    },
+    {
+        "drugName": "Flovent HFA",
+        "drugLink": "https://www.drugs.com/mtm/flovent-hfa.html"
+    },
+    {
+        "drugName": "Fluconazole",
+        "drugLink": "https://www.drugs.com/mtm/fluconazole.html"
+    },
+    {
+        "drugName": "Fludrocortisone",
+        "drugLink": "https://www.drugs.com/mtm/fludrocortisone.html"
+    },
+    {
+        "drugName": "Fluocinonide",
+        "drugLink": "https://www.drugs.com/fluocinonide-topical.html"
+    },
+    {
+        "drugName": "Fluoxetine",
+        "drugLink": "https://www.drugs.com/fluoxetine.html"
+    },
+    {
+        "drugName": "Fluphenazine",
+        "drugLink": "https://www.drugs.com/mtm/fluphenazine.html"
+    },
+    {
+        "drugName": "Flutamide",
+        "drugLink": "https://www.drugs.com/flutamide.html"
+    },
+    {
+        "drugName": "Fluticasone",
+        "drugLink": "https://www.drugs.com/pro/fluticasone.html"
+    },
+    {
+        "drugName": "Fluticasone and salmeterol",
+        "drugLink": "https://www.drugs.com/mtm/fluticasone-and-salmeterol.html"
+    },
+    {
+        "drugName": "Fluticasone nasal",
+        "drugLink": "https://www.drugs.com/mtm/fluticasone-nasal.html"
+    },
+    {
+        "drugName": "Fluvoxamine",
+        "drugLink": "https://www.drugs.com/mtm/fluvoxamine.html"
+    },
+    {
+        "drugName": "Focalin",
+        "drugLink": "https://www.drugs.com/focalin.html"
+    },
+    {
+        "drugName": "Folic Acid",
+        "drugLink": "https://www.drugs.com/folic_acid.html"
+    },
+    {
+        "drugName": "Fondaparinux",
+        "drugLink": "https://www.drugs.com/mtm/fondaparinux.html"
+    },
+    {
+        "drugName": "Formoterol",
+        "drugLink": "https://www.drugs.com/monograph/formoterol.html"
+    },
+    {
+        "drugName": "Fosamax",
+        "drugLink": "https://www.drugs.com/fosamax.html"
+    },
+    {
+        "drugName": "Fosfomycin",
+        "drugLink": "https://www.drugs.com/mtm/fosfomycin.html"
+    },
+    {
+        "drugName": "Fosinopril",
+        "drugLink": "https://www.drugs.com/mtm/fosinopril.html"
+    },
+    {
+        "drugName": "Fulvestrant",
+        "drugLink": "https://www.drugs.com/mtm/fulvestrant.html"
+    },
+    {
+        "drugName": "Furosemide",
+        "drugLink": "https://www.drugs.com/furosemide.html"
+    },
+    {
+        "drugName": "Fycompa",
+        "drugLink": "https://www.drugs.com/fycompa.html"
+    },
+    {
+        "drugName": "Gabapentin",
+        "drugLink": "https://www.drugs.com/gabapentin.html"
+    },
+    {
+        "drugName": "Galantamine",
+        "drugLink": "https://www.drugs.com/mtm/galantamine.html"
+    },
+    {
+        "drugName": "Ganciclovir",
+        "drugLink": "https://www.drugs.com/pro/ganciclovir.html"
+    },
+    {
+        "drugName": "Garamycin",
+        "drugLink": "https://www.drugs.com/mtm/garamycin.html"
+    },
+    {
+        "drugName": "Gardasil",
+        "drugLink": "https://www.drugs.com/pro/gardasil.html"
+    },
+    {
+        "drugName": "Garlic",
+        "drugLink": "https://www.drugs.com/mtm/garlic.html"
+    },
+    {
+        "drugName": "Gas-X",
+        "drugLink": "https://www.drugs.com/mtm/gas-x.html"
+    },
+    {
+        "drugName": "Gavreto",
+        "drugLink": "https://www.drugs.com/gavreto.html"
+    },
+    {
+        "drugName": "Gazyva",
+        "drugLink": "https://www.drugs.com/gazyva.html"
+    },
+    {
+        "drugName": "Gemcitabine",
+        "drugLink": "https://www.drugs.com/mtm/gemcitabine.html"
+    },
+    {
+        "drugName": "Gemfibrozil",
+        "drugLink": "https://www.drugs.com/gemfibrozil.html"
+    },
+    {
+        "drugName": "Gemtesa",
+        "drugLink": "https://www.drugs.com/gemtesa.html"
+    },
+    {
+        "drugName": "Gemzar",
+        "drugLink": "https://www.drugs.com/gemzar.html"
+    },
+    {
+        "drugName": "Genotropin",
+        "drugLink": "https://www.drugs.com/mtm/genotropin.html"
+    },
+    {
+        "drugName": "Gentamicin",
+        "drugLink": "https://www.drugs.com/mtm/gentamicin.html"
+    },
+    {
+        "drugName": "Genvoya",
+        "drugLink": "https://www.drugs.com/genvoya.html"
+    },
+    {
+        "drugName": "Geodon",
+        "drugLink": "https://www.drugs.com/geodon.html"
+    },
+    {
+        "drugName": "Giazo",
+        "drugLink": "https://www.drugs.com/mtm/giazo.html"
+    },
+    {
+        "drugName": "Gilenya",
+        "drugLink": "https://www.drugs.com/gilenya.html"
+    },
+    {
+        "drugName": "Ginger",
+        "drugLink": "https://www.drugs.com/mtm/ginger.html"
+    },
+    {
+        "drugName": "Ginkgo Biloba",
+        "drugLink": "https://www.drugs.com/mtm/ginkgo-biloba.html"
+    },
+    {
+        "drugName": "Ginseng",
+        "drugLink": "https://www.drugs.com/npc/ginseng.html"
+    },
+    {
+        "drugName": "Gleevec",
+        "drugLink": "https://www.drugs.com/gleevec.html"
+    },
+    {
+        "drugName": "Glimepiride",
+        "drugLink": "https://www.drugs.com/mtm/glimepiride.html"
+    },
+    {
+        "drugName": "Glipizide",
+        "drugLink": "https://www.drugs.com/glipizide.html"
+    },
+    {
+        "drugName": "Glucagon",
+        "drugLink": "https://www.drugs.com/glucagon.html"
+    },
+    {
+        "drugName": "Glucophage",
+        "drugLink": "https://www.drugs.com/glucophage.html"
+    },
+    {
+        "drugName": "Glucosamine",
+        "drugLink": "https://www.drugs.com/mtm/glucosamine.html"
+    },
+    {
+        "drugName": "Glucosamine & Chondroitin with MSM",
+        "drugLink": "https://www.drugs.com/mtm/glucosamine-chondroitin-with-msm.html"
+    },
+    {
+        "drugName": "Glucose",
+        "drugLink": "https://www.drugs.com/mtm/glucose.html"
+    },
+    {
+        "drugName": "Glucotrol",
+        "drugLink": "https://www.drugs.com/glucotrol.html"
+    },
+    {
+        "drugName": "Glucovance",
+        "drugLink": "https://www.drugs.com/glucovance.html"
+    },
+    {
+        "drugName": "Glutathione",
+        "drugLink": "https://www.drugs.com/npc/glutathione.html"
+    },
+    {
+        "drugName": "Glyburide",
+        "drugLink": "https://www.drugs.com/glyburide.html"
+    },
+    {
+        "drugName": "Glycerin",
+        "drugLink": "https://www.drugs.com/cons/glycerin.html"
+    },
+    {
+        "drugName": "GlycoLax",
+        "drugLink": "https://www.drugs.com/mtm/glycolax.html"
+    },
+    {
+        "drugName": "Glycopyrrolate",
+        "drugLink": "https://www.drugs.com/mtm/glycopyrrolate.html"
+    },
+    {
+        "drugName": "Glyxambi",
+        "drugLink": "https://www.drugs.com/glyxambi.html"
+    },
+    {
+        "drugName": "Gocovri",
+        "drugLink": "https://www.drugs.com/gocovri.html"
+    },
+    {
+        "drugName": "GoLYTELY",
+        "drugLink": "https://www.drugs.com/mtm/golytely.html"
+    },
+    {
+        "drugName": "Granisetron",
+        "drugLink": "https://www.drugs.com/mtm/granisetron.html"
+    },
+    {
+        "drugName": "Griseofulvin",
+        "drugLink": "https://www.drugs.com/mtm/griseofulvin.html"
+    },
+    {
+        "drugName": "Guaifenesin",
+        "drugLink": "https://www.drugs.com/guaifenesin.html"
+    },
+    {
+        "drugName": "Guanfacine",
+        "drugLink": "https://www.drugs.com/mtm/guanfacine.html"
+    },
+    {
+        "drugName": "Gvoke HypoPen",
+        "drugLink": "https://www.drugs.com/gvoke.html"
+    },
+    {
+        "drugName": "Haegarda",
+        "drugLink": "https://www.drugs.com/haegarda.html"
+    },
+    {
+        "drugName": "Halcion",
+        "drugLink": "https://www.drugs.com/mtm/halcion.html"
+    },
+    {
+        "drugName": "Haldol",
+        "drugLink": "https://www.drugs.com/mtm/haldol.html"
+    },
+    {
+        "drugName": "Haldol Decanoate",
+        "drugLink": "https://www.drugs.com/cons/haldol-decanoate.html"
+    },
+    {
+        "drugName": "Halobetasol",
+        "drugLink": "https://www.drugs.com/halobetasol-topical.html"
+    },
+    {
+        "drugName": "Halobetasol Topical",
+        "drugLink": "https://www.drugs.com/halobetasol-topical.html"
+    },
+    {
+        "drugName": "Haloperidol",
+        "drugLink": "https://www.drugs.com/mtm/haloperidol.html"
+    },
+    {
+        "drugName": "Harvoni",
+        "drugLink": "https://www.drugs.com/harvoni.html"
+    },
+    {
+        "drugName": "Hemabate",
+        "drugLink": "https://www.drugs.com/mtm/hemabate.html"
+    },
+    {
+        "drugName": "Heparin",
+        "drugLink": "https://www.drugs.com/heparin.html"
+    },
+    {
+        "drugName": "Hepatitis B adult vaccine",
+        "drugLink": "https://www.drugs.com/mtm/hepatitis-b-adult-vaccine.html"
+    },
+    {
+        "drugName": "Herceptin",
+        "drugLink": "https://www.drugs.com/herceptin.html"
+    },
+    {
+        "drugName": "Hibiclens",
+        "drugLink": "https://www.drugs.com/mtm/hibiclens.html"
+    },
+    {
+        "drugName": "Hiprex",
+        "drugLink": "https://www.drugs.com/mtm/hiprex.html"
+    },
+    {
+        "drugName": "Histrelin",
+        "drugLink": "https://www.drugs.com/mtm/histrelin-implant.html"
+    },
+    {
+        "drugName": "Hizentra",
+        "drugLink": "https://www.drugs.com/hizentra.html"
+    },
+    {
+        "drugName": "Horizant",
+        "drugLink": "https://www.drugs.com/horizant.html"
+    },
+    {
+        "drugName": "Horny Goat Weed",
+        "drugLink": "https://www.drugs.com/npc/horny-goat-weed.html"
+    },
+    {
+        "drugName": "Humalog",
+        "drugLink": "https://www.drugs.com/humalog.html"
+    },
+    {
+        "drugName": "Humira",
+        "drugLink": "https://www.drugs.com/humira.html"
+    },
+    {
+        "drugName": "Humulin N",
+        "drugLink": "https://www.drugs.com/humulin_n.html"
+    },
+    {
+        "drugName": "Humulin R",
+        "drugLink": "https://www.drugs.com/humulin-r.html"
+    },
+    {
+        "drugName": "Humulin RU 500",
+        "drugLink": "https://www.drugs.com/mtm/humulin-r-concentrated-u-500.html"
+    },
+    {
+        "drugName": "Hydralazine",
+        "drugLink": "https://www.drugs.com/mtm/hydralazine.html"
+    },
+    {
+        "drugName": "Hydrea",
+        "drugLink": "https://www.drugs.com/mtm/hydrea.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide",
+        "drugLink": "https://www.drugs.com/hydrochlorothiazide.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide and lisinopril",
+        "drugLink": "https://www.drugs.com/mtm/hydrochlorothiazide-and-lisinopril.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide and losartan",
+        "drugLink": "https://www.drugs.com/mtm/hydrochlorothiazide-and-losartan.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide and telmisartan",
+        "drugLink": "https://www.drugs.com/mtm/hydrochlorothiazide-and-telmisartan.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide and triamterene",
+        "drugLink": "https://www.drugs.com/mtm/hydrochlorothiazide-and-triamterene.html"
+    },
+    {
+        "drugName": "Hydrochlorothiazide and valsartan",
+        "drugLink": "https://www.drugs.com/mtm/hydrochlorothiazide-and-valsartan.html"
+    },
+    {
+        "drugName": "Hydrocodone",
+        "drugLink": "https://www.drugs.com/hydrocodone.html"
+    },
+    {
+        "drugName": "Hydrocodone and acetaminophen",
+        "drugLink": "https://www.drugs.com/cons/hydrocodone-and-acetaminophen.html"
+    },
+    {
+        "drugName": "Hydrocortisone",
+        "drugLink": "https://www.drugs.com/mtm/hydrocortisone.html"
+    },
+    {
+        "drugName": "Hydrocortisone topical",
+        "drugLink": "https://www.drugs.com/mtm/hydrocortisone-topical.html"
+    },
+    {
+        "drugName": "Hydromorphone",
+        "drugLink": "https://www.drugs.com/mtm/hydromorphone.html"
+    },
+    {
+        "drugName": "Hydroxychloroquine",
+        "drugLink": "https://www.drugs.com/hydroxychloroquine.html"
+    },
+    {
+        "drugName": "Hydroxyurea",
+        "drugLink": "https://www.drugs.com/mtm/hydroxyurea.html"
+    },
+    {
+        "drugName": "Hydroxyzine",
+        "drugLink": "https://www.drugs.com/hydroxyzine.html"
+    },
+    {
+        "drugName": "Hydroxyzine Pamoate",
+        "drugLink": "https://www.drugs.com/pro/hydroxyzine-pamoate.html"
+    },
+    {
+        "drugName": "Hyoscyamine",
+        "drugLink": "https://www.drugs.com/mtm/hyoscyamine.html"
+    },
+    {
+        "drugName": "Hyosyne",
+        "drugLink": "https://www.drugs.com/pro/hyosyne.html"
+    },
+    {
+        "drugName": "Hytrin",
+        "drugLink": "https://www.drugs.com/hytrin.html"
+    },
+    {
+        "drugName": "Hyzaar",
+        "drugLink": "https://www.drugs.com/hyzaar.html"
+    },
+    {
+        "drugName": "Ibandronate",
+        "drugLink": "https://www.drugs.com/monograph/ibandronate.html"
+    },
+    {
+        "drugName": "Ibrance",
+        "drugLink": "https://www.drugs.com/ibrance.html"
+    },
+    {
+        "drugName": "Ibrutinib",
+        "drugLink": "https://www.drugs.com/ibrutinib.html"
+    },
+    {
+        "drugName": "Ibu",
+        "drugLink": "https://www.drugs.com/mtm/ibu.html"
+    },
+    {
+        "drugName": "Ibuprofen",
+        "drugLink": "https://www.drugs.com/ibuprofen.html"
+    },
+    {
+        "drugName": "Iclusig",
+        "drugLink": "https://www.drugs.com/iclusig.html"
+    },
+    {
+        "drugName": "Icosapent",
+        "drugLink": "https://www.drugs.com/mtm/icosapent.html"
+    },
+    {
+        "drugName": "Idhifa",
+        "drugLink": "https://www.drugs.com/idhifa.html"
+    },
+    {
+        "drugName": "Ilumya",
+        "drugLink": "https://www.drugs.com/ilumya.html"
+    },
+    {
+        "drugName": "Imatinib",
+        "drugLink": "https://www.drugs.com/imatinib.html"
+    },
+    {
+        "drugName": "Imbruvica",
+        "drugLink": "https://www.drugs.com/imbruvica.html"
+    },
+    {
+        "drugName": "Imdur",
+        "drugLink": "https://www.drugs.com/imdur.html"
+    },
+    {
+        "drugName": "Imfinzi",
+        "drugLink": "https://www.drugs.com/imfinzi.html"
+    },
+    {
+        "drugName": "Imipramine",
+        "drugLink": "https://www.drugs.com/mtm/imipramine.html"
+    },
+    {
+        "drugName": "Imiquimod",
+        "drugLink": "https://www.drugs.com/monograph/imiquimod.html"
+    },
+    {
+        "drugName": "Imitrex",
+        "drugLink": "https://www.drugs.com/imitrex.html"
+    },
+    {
+        "drugName": "Imodium",
+        "drugLink": "https://www.drugs.com/cons/imodium.html"
+    },
+    {
+        "drugName": "Impoyz",
+        "drugLink": "https://www.drugs.com/mtm/impoyz.html"
+    },
+    {
+        "drugName": "Imuran",
+        "drugLink": "https://www.drugs.com/mtm/imuran.html"
+    },
+    {
+        "drugName": "Inbrija",
+        "drugLink": "https://www.drugs.com/inbrija.html"
+    },
+    {
+        "drugName": "Incruse Ellipta",
+        "drugLink": "https://www.drugs.com/incruse-ellipta.html"
+    },
+    {
+        "drugName": "Indapamide",
+        "drugLink": "https://www.drugs.com/mtm/indapamide.html"
+    },
+    {
+        "drugName": "Inderal",
+        "drugLink": "https://www.drugs.com/inderal.html"
+    },
+    {
+        "drugName": "Indocin",
+        "drugLink": "https://www.drugs.com/cons/indocin.html"
+    },
+    {
+        "drugName": "Indomethacin",
+        "drugLink": "https://www.drugs.com/mtm/indomethacin.html"
+    },
+    {
+        "drugName": "Inflectra",
+        "drugLink": "https://www.drugs.com/mtm/inflectra.html"
+    },
+    {
+        "drugName": "Infliximab",
+        "drugLink": "https://www.drugs.com/infliximab.html"
+    },
+    {
+        "drugName": "Ingrezza",
+        "drugLink": "https://www.drugs.com/ingrezza.html"
+    },
+    {
+        "drugName": "Injectafer",
+        "drugLink": "https://www.drugs.com/injectafer.html"
+    },
+    {
+        "drugName": "Inlyta",
+        "drugLink": "https://www.drugs.com/inlyta.html"
+    },
+    {
+        "drugName": "Insulin Aspart",
+        "drugLink": "https://www.drugs.com/mtm/insulin-aspart.html"
+    },
+    {
+        "drugName": "Insulin Detemir",
+        "drugLink": "https://www.drugs.com/insulin-detemir.html"
+    },
+    {
+        "drugName": "Insulin glargine",
+        "drugLink": "https://www.drugs.com/mtm/insulin-glargine.html"
+    },
+    {
+        "drugName": "Insulin Lispro",
+        "drugLink": "https://www.drugs.com/insulin-lispro.html"
+    },
+    {
+        "drugName": "Insulin Regular",
+        "drugLink": "https://www.drugs.com/insulin-regular.html"
+    },
+    {
+        "drugName": "Intuniv",
+        "drugLink": "https://www.drugs.com/intuniv.html"
+    },
+    {
+        "drugName": "Invanz",
+        "drugLink": "https://www.drugs.com/mtm/invanz.html"
+    },
+    {
+        "drugName": "Invega",
+        "drugLink": "https://www.drugs.com/invega.html"
+    },
+    {
+        "drugName": "Invega Sustenna",
+        "drugLink": "https://www.drugs.com/invega-sustenna.html"
+    },
+    {
+        "drugName": "Invokana",
+        "drugLink": "https://www.drugs.com/invokana.html"
+    },
+    {
+        "drugName": "Ipratropium",
+        "drugLink": "https://www.drugs.com/pro/ipratropium.html"
+    },
+    {
+        "drugName": "Irbesartan",
+        "drugLink": "https://www.drugs.com/mtm/irbesartan.html"
+    },
+    {
+        "drugName": "Isoniazid",
+        "drugLink": "https://www.drugs.com/mtm/isoniazid.html"
+    },
+    {
+        "drugName": "Isosorbide",
+        "drugLink": "https://www.drugs.com/isosorbide_mononitrate.html"
+    },
+    {
+        "drugName": "Isosorbide dinitrate",
+        "drugLink": "https://www.drugs.com/mtm/isosorbide-dinitrate.html"
+    },
+    {
+        "drugName": "Isosorbide mononitrate",
+        "drugLink": "https://www.drugs.com/cons/isosorbide-mononitrate.html"
+    },
+    {
+        "drugName": "Isotretinoin",
+        "drugLink": "https://www.drugs.com/mtm/isotretinoin.html"
+    },
+    {
+        "drugName": "Itraconazole",
+        "drugLink": "https://www.drugs.com/mtm/itraconazole.html"
+    },
+    {
+        "drugName": "Ivabradine",
+        "drugLink": "https://www.drugs.com/mtm/ivabradine.html"
+    },
+    {
+        "drugName": "Ivermectin",
+        "drugLink": "https://www.drugs.com/ivermectin.html"
+    },
+    {
+        "drugName": "Jadenu",
+        "drugLink": "https://www.drugs.com/jadenu.html"
+    },
+    {
+        "drugName": "Jadenu Sprinkle",
+        "drugLink": "https://www.drugs.com/mtm/jadenu-sprinkle.html"
+    },
+    {
+        "drugName": "Jaimiess",
+        "drugLink": "https://www.drugs.com/pro/jaimiess.html"
+    },
+    {
+        "drugName": "Jakafi",
+        "drugLink": "https://www.drugs.com/jakafi.html"
+    },
+    {
+        "drugName": "Jalyn",
+        "drugLink": "https://www.drugs.com/jalyn.html"
+    },
+    {
+        "drugName": "Jantoven",
+        "drugLink": "https://www.drugs.com/mtm/jantoven.html"
+    },
+    {
+        "drugName": "Janumet",
+        "drugLink": "https://www.drugs.com/janumet.html"
+    },
+    {
+        "drugName": "Janumet XR",
+        "drugLink": "https://www.drugs.com/mtm/janumet-xr.html"
+    },
+    {
+        "drugName": "Januvia",
+        "drugLink": "https://www.drugs.com/januvia.html"
+    },
+    {
+        "drugName": "Japanese Knotweed",
+        "drugLink": "https://www.drugs.com/npp/japanese-knotweed.html"
+    },
+    {
+        "drugName": "Jardiance",
+        "drugLink": "https://www.drugs.com/jardiance.html"
+    },
+    {
+        "drugName": "Jasmiel",
+        "drugLink": "https://www.drugs.com/mtm/jasmiel.html"
+    },
+    {
+        "drugName": "Jatenzo",
+        "drugLink": "https://www.drugs.com/jatenzo.html"
+    },
+    {
+        "drugName": "Jelmyto",
+        "drugLink": "https://www.drugs.com/cons/jelmyto.html"
+    },
+    {
+        "drugName": "Jemperli",
+        "drugLink": "https://www.drugs.com/jemperli.html"
+    },
+    {
+        "drugName": "Jencycla",
+        "drugLink": "https://www.drugs.com/pro/jencycla.html"
+    },
+    {
+        "drugName": "Jentadueto",
+        "drugLink": "https://www.drugs.com/jentadueto.html"
+    },
+    {
+        "drugName": "Jevtana",
+        "drugLink": "https://www.drugs.com/jevtana.html"
+    },
+    {
+        "drugName": "Jinteli",
+        "drugLink": "https://www.drugs.com/cons/jinteli.html"
+    },
+    {
+        "drugName": "Jivi",
+        "drugLink": "https://www.drugs.com/pro/jivi.html"
+    },
+    {
+        "drugName": "Jolessa",
+        "drugLink": "https://www.drugs.com/cons/jolessa.html"
+    },
+    {
+        "drugName": "Jornay PM",
+        "drugLink": "https://www.drugs.com/cons/jornay-pm.html"
+    },
+    {
+        "drugName": "Jublia",
+        "drugLink": "https://www.drugs.com/jublia.html"
+    },
+    {
+        "drugName": "Jujube",
+        "drugLink": "https://www.drugs.com/npp/jujube.html"
+    },
+    {
+        "drugName": "Juleber",
+        "drugLink": "https://www.drugs.com/mtm/juleber.html"
+    },
+    {
+        "drugName": "Juluca",
+        "drugLink": "https://www.drugs.com/juluca.html"
+    },
+    {
+        "drugName": "Junel",
+        "drugLink": "https://www.drugs.com/pro/junel.html"
+    },
+    {
+        "drugName": "Junel 1/20",
+        "drugLink": "https://www.drugs.com/cons/junel-1-20.html"
+    },
+    {
+        "drugName": "Junel Fe 24",
+        "drugLink": "https://www.drugs.com/pro/junel-fe-24.html"
+    },
+    {
+        "drugName": "Juvederm",
+        "drugLink": "https://www.drugs.com/juvederm.html"
+    },
+    {
+        "drugName": "Jynarque",
+        "drugLink": "https://www.drugs.com/mtm/jynarque.html"
+    },
+    {
+        "drugName": "Jynneos",
+        "drugLink": "https://www.drugs.com/cons/jynneos.html"
+    },
+    {
+        "drugName": "K-Dur",
+        "drugLink": "https://www.drugs.com/k-dur.html"
+    },
+    {
+        "drugName": "K-Tab",
+        "drugLink": "https://www.drugs.com/cons/k-tab.html"
+    },
+    {
+        "drugName": "Kadcyla",
+        "drugLink": "https://www.drugs.com/kadcyla.html"
+    },
+    {
+        "drugName": "Kadian",
+        "drugLink": "https://www.drugs.com/kadian.html"
+    },
+    {
+        "drugName": "kalbitor",
+        "drugLink": "https://www.drugs.com/kalbitor.html"
+    },
+    {
+        "drugName": "Kaletra",
+        "drugLink": "https://www.drugs.com/kaletra.html"
+    },
+    {
+        "drugName": "Kaolin",
+        "drugLink": "https://www.drugs.com/npp/kaolin.html"
+    },
+    {
+        "drugName": "Kaopectate",
+        "drugLink": "https://www.drugs.com/mtm/kaopectate.html"
+    },
+    {
+        "drugName": "Kapvay",
+        "drugLink": "https://www.drugs.com/kapvay.html"
+    },
+    {
+        "drugName": "Kariva",
+        "drugLink": "https://www.drugs.com/mtm/kariva.html"
+    },
+    {
+        "drugName": "Kava",
+        "drugLink": "https://www.drugs.com/npc/kava.html"
+    },
+    {
+        "drugName": "Kayexalate",
+        "drugLink": "https://www.drugs.com/mtm/kayexalate.html"
+    },
+    {
+        "drugName": "Keflex",
+        "drugLink": "https://www.drugs.com/keflex.html"
+    },
+    {
+        "drugName": "Kenalog",
+        "drugLink": "https://www.drugs.com/kenalog.html"
+    },
+    {
+        "drugName": "Kenalog-40",
+        "drugLink": "https://www.drugs.com/cons/kenalog-40.html"
+    },
+    {
+        "drugName": "Keppra",
+        "drugLink": "https://www.drugs.com/keppra.html"
+    },
+    {
+        "drugName": "Keppra XR",
+        "drugLink": "https://www.drugs.com/cons/keppra-xr.html"
+    },
+    {
+        "drugName": "Kerendia",
+        "drugLink": "https://www.drugs.com/kerendia.html"
+    },
+    {
+        "drugName": "Kesimpta",
+        "drugLink": "https://www.drugs.com/kesimpta.html"
+    },
+    {
+        "drugName": "Ketamine",
+        "drugLink": "https://www.drugs.com/mtm/ketamine.html"
+    },
+    {
+        "drugName": "Ketoconazole",
+        "drugLink": "https://www.drugs.com/mtm/ketoconazole.html"
+    },
+    {
+        "drugName": "Ketoconazole topical",
+        "drugLink": "https://www.drugs.com/mtm/ketoconazole-topical.html"
+    },
+    {
+        "drugName": "Ketoprofen",
+        "drugLink": "https://www.drugs.com/mtm/ketoprofen.html"
+    },
+    {
+        "drugName": "Ketorolac",
+        "drugLink": "https://www.drugs.com/pro/ketorolac.html"
+    },
+    {
+        "drugName": "Ketorolac ophthalmic",
+        "drugLink": "https://www.drugs.com/mtm/ketorolac-ophthalmic.html"
+    },
+    {
+        "drugName": "Ketorolac Tromethamine",
+        "drugLink": "https://www.drugs.com/pro/ketorolac-tromethamine.html"
+    },
+    {
+        "drugName": "Ketotifen",
+        "drugLink": "https://www.drugs.com/cons/ketotifen.html"
+    },
+    {
+        "drugName": "Ketotifen ophthalmic",
+        "drugLink": "https://www.drugs.com/mtm/ketotifen-ophthalmic.html"
+    },
+    {
+        "drugName": "Kevzara",
+        "drugLink": "https://www.drugs.com/kevzara.html"
+    },
+    {
+        "drugName": "Keytruda",
+        "drugLink": "https://www.drugs.com/keytruda.html"
+    },
+    {
+        "drugName": "Kimmtrak",
+        "drugLink": "https://www.drugs.com/kimmtrak.html"
+    },
+    {
+        "drugName": "Kisqali",
+        "drugLink": "https://www.drugs.com/kisqali.html"
+    },
+    {
+        "drugName": "Klonopin",
+        "drugLink": "https://www.drugs.com/klonopin.html"
+    },
+    {
+        "drugName": "Klor-Con",
+        "drugLink": "https://www.drugs.com/klor-con.html"
+    },
+    {
+        "drugName": "Kombiglyze XR",
+        "drugLink": "https://www.drugs.com/kombiglyze-xr.html"
+    },
+    {
+        "drugName": "Korsuva",
+        "drugLink": "https://www.drugs.com/korsuva.html"
+    },
+    {
+        "drugName": "Kratom",
+        "drugLink": "https://www.drugs.com/npc/kratom.html"
+    },
+    {
+        "drugName": "Krill Oil",
+        "drugLink": "https://www.drugs.com/krill-oil.html"
+    },
+    {
+        "drugName": "Krystexxa",
+        "drugLink": "https://www.drugs.com/krystexxa.html"
+    },
+    {
+        "drugName": "Kyleena",
+        "drugLink": "https://www.drugs.com/mtm/kyleena.html"
+    },
+    {
+        "drugName": "Kynmobi",
+        "drugLink": "https://www.drugs.com/kynmobi.html"
+    },
+    {
+        "drugName": "Kytril",
+        "drugLink": "https://www.drugs.com/kytril.html"
+    },
+    {
+        "drugName": "Labetalol",
+        "drugLink": "https://www.drugs.com/mtm/labetalol.html"
+    },
+    {
+        "drugName": "Lactulose",
+        "drugLink": "https://www.drugs.com/mtm/lactulose.html"
+    },
+    {
+        "drugName": "Lamictal",
+        "drugLink": "https://www.drugs.com/lamictal.html"
+    },
+    {
+        "drugName": "Lamotrigine",
+        "drugLink": "https://www.drugs.com/mtm/lamotrigine.html"
+    },
+    {
+        "drugName": "Lansoprazole",
+        "drugLink": "https://www.drugs.com/lansoprazole.html"
+    },
+    {
+        "drugName": "Lantus",
+        "drugLink": "https://www.drugs.com/lantus.html"
+    },
+    {
+        "drugName": "Lasix",
+        "drugLink": "https://www.drugs.com/lasix.html"
+    },
+    {
+        "drugName": "Latanoprost",
+        "drugLink": "https://www.drugs.com/monograph/latanoprost.html"
+    },
+    {
+        "drugName": "Latuda",
+        "drugLink": "https://www.drugs.com/latuda.html"
+    },
+    {
+        "drugName": "Leflunomide",
+        "drugLink": "https://www.drugs.com/mtm/leflunomide.html"
+    },
+    {
+        "drugName": "Lenvatinib",
+        "drugLink": "https://www.drugs.com/lenvatinib.html"
+    },
+    {
+        "drugName": "Lenvima",
+        "drugLink": "https://www.drugs.com/lenvima.html"
+    },
+    {
+        "drugName": "Letrozole",
+        "drugLink": "https://www.drugs.com/mtm/letrozole.html"
+    },
+    {
+        "drugName": "Leukeran",
+        "drugLink": "https://www.drugs.com/mtm/leukeran.html"
+    },
+    {
+        "drugName": "Leuprolide",
+        "drugLink": "https://www.drugs.com/leuprolide.html"
+    },
+    {
+        "drugName": "Levaquin",
+        "drugLink": "https://www.drugs.com/levaquin.html"
+    },
+    {
+        "drugName": "Levemir",
+        "drugLink": "https://www.drugs.com/levemir.html"
+    },
+    {
+        "drugName": "Levetiracetam",
+        "drugLink": "https://www.drugs.com/cons/levetiracetam.html"
+    },
+    {
+        "drugName": "Levocetirizine",
+        "drugLink": "https://www.drugs.com/mtm/levocetirizine.html"
+    },
+    {
+        "drugName": "Levodopa",
+        "drugLink": "https://www.drugs.com/mtm/levodopa-inhalation.html"
+    },
+    {
+        "drugName": "Levofloxacin",
+        "drugLink": "https://www.drugs.com/mtm/levofloxacin.html"
+    },
+    {
+        "drugName": "Levonorgestrel",
+        "drugLink": "https://www.drugs.com/cons/levonorgestrel.html"
+    },
+    {
+        "drugName": "Levothyroxine",
+        "drugLink": "https://www.drugs.com/levothyroxine.html"
+    },
+    {
+        "drugName": "Lexapro",
+        "drugLink": "https://www.drugs.com/lexapro.html"
+    },
+    {
+        "drugName": "Lexette",
+        "drugLink": "https://www.drugs.com/mtm/lexette.html"
+    },
+    {
+        "drugName": "Lialda",
+        "drugLink": "https://www.drugs.com/lialda.html"
+    },
+    {
+        "drugName": "Lidex",
+        "drugLink": "https://www.drugs.com/cons/lidex.html"
+    },
+    {
+        "drugName": "Lidocaine",
+        "drugLink": "https://www.drugs.com/pro/lidocaine.html"
+    },
+    {
+        "drugName": "Liletta",
+        "drugLink": "https://www.drugs.com/mtm/liletta.html"
+    },
+    {
+        "drugName": "Linagliptin",
+        "drugLink": "https://www.drugs.com/mtm/linagliptin.html"
+    },
+    {
+        "drugName": "Linezolid",
+        "drugLink": "https://www.drugs.com/monograph/linezolid.html"
+    },
+    {
+        "drugName": "Linzess",
+        "drugLink": "https://www.drugs.com/linzess.html"
+    },
+    {
+        "drugName": "Lipitor",
+        "drugLink": "https://www.drugs.com/lipitor.html"
+    },
+    {
+        "drugName": "Liraglutide",
+        "drugLink": "https://www.drugs.com/mtm/liraglutide.html"
+    },
+    {
+        "drugName": "Lisdexamfetamine",
+        "drugLink": "https://www.drugs.com/mtm/lisdexamfetamine.html"
+    },
+    {
+        "drugName": "Lisinopril",
+        "drugLink": "https://www.drugs.com/lisinopril.html"
+    },
+    {
+        "drugName": "Lithium",
+        "drugLink": "https://www.drugs.com/lithium.html"
+    },
+    {
+        "drugName": "Loestrin 24 Fe ",
+        "drugLink": "https://www.drugs.com/lo-loestrin-fe.html"
+    },
+    {
+        "drugName": "Lofexidine",
+        "drugLink": "https://www.drugs.com/lofexidine.html"
+    },
+    {
+        "drugName": "Lokelma",
+        "drugLink": "https://www.drugs.com/mtm/lokelma.html"
+    },
+    {
+        "drugName": "Lomotil",
+        "drugLink": "https://www.drugs.com/mtm/lomotil.html"
+    },
+    {
+        "drugName": "Loperamide",
+        "drugLink": "https://www.drugs.com/mtm/loperamide.html"
+    },
+    {
+        "drugName": "Lopressor",
+        "drugLink": "https://www.drugs.com/cons/lopressor.html"
+    },
+    {
+        "drugName": "Loratadine",
+        "drugLink": "https://www.drugs.com/loratadine.html"
+    },
+    {
+        "drugName": "Lorazepam",
+        "drugLink": "https://www.drugs.com/lorazepam.html"
+    },
+    {
+        "drugName": "Lorlatinib",
+        "drugLink": "https://www.drugs.com/lorlatinib.html"
+    },
+    {
+        "drugName": "Losartan",
+        "drugLink": "https://www.drugs.com/losartan.html"
+    },
+    {
+        "drugName": "Lovastatin",
+        "drugLink": "https://www.drugs.com/mtm/lovastatin.html"
+    },
+    {
+        "drugName": "Lovenox",
+        "drugLink": "https://www.drugs.com/lovenox.html"
+    },
+    {
+        "drugName": "Lunesta",
+        "drugLink": "https://www.drugs.com/lunesta.html"
+    },
+    {
+        "drugName": "Lupron",
+        "drugLink": "https://www.drugs.com/cons/lupron.html"
+    },
+    {
+        "drugName": "Lupron Depot",
+        "drugLink": "https://www.drugs.com/lupron.html"
+    },
+    {
+        "drugName": "Lurasidone",
+        "drugLink": "https://www.drugs.com/mtm/lurasidone.html"
+    },
+    {
+        "drugName": "Luxiq",
+        "drugLink": "https://www.drugs.com/mtm/luxiq.html"
+    },
+    {
+        "drugName": "Lyrica",
+        "drugLink": "https://www.drugs.com/lyrica.html"
+    },
+    {
+        "drugName": "Lyumjev",
+        "drugLink": "https://www.drugs.com/lyumjev.html"
+    },
+    {
+        "drugName": "Macrobid",
+        "drugLink": "https://www.drugs.com/macrobid.html"
+    },
+    {
+        "drugName": "Magnesium citrate",
+        "drugLink": "https://www.drugs.com/mtm/magnesium-citrate.html"
+    },
+    {
+        "drugName": "Magnesium oxide",
+        "drugLink": "https://www.drugs.com/mtm/magnesium-oxide.html"
+    },
+    {
+        "drugName": "Mavenclad",
+        "drugLink": "https://www.drugs.com/mavenclad.html"
+    },
+    {
+        "drugName": "Mavyret",
+        "drugLink": "https://www.drugs.com/mavyret.html"
+    },
+    {
+        "drugName": "Mayzent",
+        "drugLink": "https://www.drugs.com/mayzent.html"
+    },
+    {
+        "drugName": "Meclizine",
+        "drugLink": "https://www.drugs.com/meclizine.html"
+    },
+    {
+        "drugName": "Medrol",
+        "drugLink": "https://www.drugs.com/mtm/medrol.html"
+    },
+    {
+        "drugName": "Melatonin",
+        "drugLink": "https://www.drugs.com/melatonin.html"
+    },
+    {
+        "drugName": "Meloxicam",
+        "drugLink": "https://www.drugs.com/meloxicam.html"
+    },
+    {
+        "drugName": "Memantine",
+        "drugLink": "https://www.drugs.com/mtm/memantine.html"
+    },
+    {
+        "drugName": "Meropenem",
+        "drugLink": "https://www.drugs.com/mtm/meropenem.html"
+    },
+    {
+        "drugName": "Mesalamine",
+        "drugLink": "https://www.drugs.com/mtm/mesalamine.html"
+    },
+    {
+        "drugName": "Metamucil",
+        "drugLink": "https://www.drugs.com/mtm/metamucil.html"
+    },
+    {
+        "drugName": "Metformin",
+        "drugLink": "https://www.drugs.com/metformin.html"
+    },
+    {
+        "drugName": "Methadone",
+        "drugLink": "https://www.drugs.com/methadone.html"
+    },
+    {
+        "drugName": "Methimazole",
+        "drugLink": "https://www.drugs.com/mtm/methimazole.html"
+    },
+    {
+        "drugName": "Methocarbamol",
+        "drugLink": "https://www.drugs.com/methocarbamol.html"
+    },
+    {
+        "drugName": "Methotrexate",
+        "drugLink": "https://www.drugs.com/methotrexate.html"
+    },
+    {
+        "drugName": "Methylphenidate",
+        "drugLink": "https://www.drugs.com/methylphenidate.html"
+    },
+    {
+        "drugName": "Methylprednisolone",
+        "drugLink": "https://www.drugs.com/methylprednisolone.html"
+    },
+    {
+        "drugName": "Metoclopramide",
+        "drugLink": "https://www.drugs.com/metoclopramide.html"
+    },
+    {
+        "drugName": "Metolazone",
+        "drugLink": "https://www.drugs.com/mtm/metolazone.html"
+    },
+    {
+        "drugName": "Metoprolol",
+        "drugLink": "https://www.drugs.com/metoprolol.html"
+    },
+    {
+        "drugName": "Metronidazole",
+        "drugLink": "https://www.drugs.com/metronidazole.html"
+    },
+    {
+        "drugName": "Miconazole",
+        "drugLink": "https://www.drugs.com/pro/miconazole.html"
+    },
+    {
+        "drugName": "Midazolam",
+        "drugLink": "https://www.drugs.com/mtm/midazolam.html"
+    },
+    {
+        "drugName": "Midodrine",
+        "drugLink": "https://www.drugs.com/mtm/midodrine.html"
+    },
+    {
+        "drugName": "Minocycline",
+        "drugLink": "https://www.drugs.com/minocycline.html"
+    },
+    {
+        "drugName": "MiraLAX",
+        "drugLink": "https://www.drugs.com/miralax.html"
+    },
+    {
+        "drugName": "Mirtazapine",
+        "drugLink": "https://www.drugs.com/mirtazapine.html"
+    },
+    {
+        "drugName": "Misoprostol",
+        "drugLink": "https://www.drugs.com/mtm/misoprostol.html"
+    },
+    {
+        "drugName": "Mobic",
+        "drugLink": "https://www.drugs.com/mobic.html"
+    },
+    {
+        "drugName": "Modafinil",
+        "drugLink": "https://www.drugs.com/mtm/modafinil.html"
+    },
+    {
+        "drugName": "Molnupiravir",
+        "drugLink": "https://www.drugs.com/molnupiravir.html"
+    },
+    {
+        "drugName": "Mometasone",
+        "drugLink": "https://www.drugs.com/monograph/mometasone.html"
+    },
+    {
+        "drugName": "Montelukast",
+        "drugLink": "https://www.drugs.com/mtm/montelukast.html"
+    },
+    {
+        "drugName": "Morphine",
+        "drugLink": "https://www.drugs.com/morphine.html"
+    },
+    {
+        "drugName": "Motrin",
+        "drugLink": "https://www.drugs.com/cons/motrin.html"
+    },
+    {
+        "drugName": "Mucinex",
+        "drugLink": "https://www.drugs.com/mucinex.html"
+    },
+    {
+        "drugName": "Mupirocin",
+        "drugLink": "https://www.drugs.com/pro/mupirocin.html"
+    },
+    {
+        "drugName": "Mupirocin topical",
+        "drugLink": "https://www.drugs.com/mtm/mupirocin-topical.html"
+    },
+    {
+        "drugName": "Mycapssa",
+        "drugLink": "https://www.drugs.com/mycapssa.html"
+    },
+    {
+        "drugName": "Myfembree",
+        "drugLink": "https://www.drugs.com/myfembree.html"
+    },
+    {
+        "drugName": "Mylotarg",
+        "drugLink": "https://www.drugs.com/mylotarg.html"
+    },
+    {
+        "drugName": "Myrbetriq",
+        "drugLink": "https://www.drugs.com/myrbetriq.html"
+    },
+    {
+        "drugName": "Nabumetone",
+        "drugLink": "https://www.drugs.com/mtm/nabumetone.html"
+    },
+    {
+        "drugName": "NAC",
+        "drugLink": "https://www.drugs.com/mtm/nac.html"
+    },
+    {
+        "drugName": "Nadolol",
+        "drugLink": "https://www.drugs.com/mtm/nadolol.html"
+    },
+    {
+        "drugName": "Naloxone",
+        "drugLink": "https://www.drugs.com/naloxone.html"
+    },
+    {
+        "drugName": "Naltrexone",
+        "drugLink": "https://www.drugs.com/naltrexone.html"
+    },
+    {
+        "drugName": "Namenda",
+        "drugLink": "https://www.drugs.com/namenda.html"
+    },
+    {
+        "drugName": "Naprosyn",
+        "drugLink": "https://www.drugs.com/naprosyn.html"
+    },
+    {
+        "drugName": "Naproxen",
+        "drugLink": "https://www.drugs.com/naproxen.html"
+    },
+    {
+        "drugName": "Naratriptan",
+        "drugLink": "https://www.drugs.com/mtm/naratriptan.html"
+    },
+    {
+        "drugName": "Narcan",
+        "drugLink": "https://www.drugs.com/cons/narcan.html"
+    },
+    {
+        "drugName": "Nasacort",
+        "drugLink": "https://www.drugs.com/cons/nasacort.html"
+    },
+    {
+        "drugName": "Nasonex",
+        "drugLink": "https://www.drugs.com/cons/nasonex.html"
+    },
+    {
+        "drugName": "Nayzilam",
+        "drugLink": "https://www.drugs.com/nayzilam.html"
+    },
+    {
+        "drugName": "Nebivolol",
+        "drugLink": "https://www.drugs.com/mtm/nebivolol.html"
+    },
+    {
+        "drugName": "Nefazodone",
+        "drugLink": "https://www.drugs.com/mtm/nefazodone.html"
+    },
+    {
+        "drugName": "Neomycin",
+        "drugLink": "https://www.drugs.com/mtm/neomycin.html"
+    },
+    {
+        "drugName": "Neosporin",
+        "drugLink": "https://www.drugs.com/cons/neosporin.html"
+    },
+    {
+        "drugName": "Neostigmine",
+        "drugLink": "https://www.drugs.com/mtm/neostigmine.html"
+    },
+    {
+        "drugName": "Nerlynx",
+        "drugLink": "https://www.drugs.com/nerlynx.html"
+    },
+    {
+        "drugName": "Neulasta",
+        "drugLink": "https://www.drugs.com/neulasta.html"
+    },
+    {
+        "drugName": "Neupro",
+        "drugLink": "https://www.drugs.com/neupro.html"
+    },
+    {
+        "drugName": "Neurontin",
+        "drugLink": "https://www.drugs.com/neurontin.html"
+    },
+    {
+        "drugName": "Nexium",
+        "drugLink": "https://www.drugs.com/nexium.html"
+    },
+    {
+        "drugName": "Nexletol",
+        "drugLink": "https://www.drugs.com/nexletol.html"
+    },
+    {
+        "drugName": "Nexlizet",
+        "drugLink": "https://www.drugs.com/nexlizet.html"
+    },
+    {
+        "drugName": "Nexplanon",
+        "drugLink": "https://www.drugs.com/nexplanon.html"
+    },
+    {
+        "drugName": "Nextstellis",
+        "drugLink": "https://www.drugs.com/nextstellis.html"
+    },
+    {
+        "drugName": "Niacin",
+        "drugLink": "https://www.drugs.com/niacin.html"
+    },
+    {
+        "drugName": "Nicardipine",
+        "drugLink": "https://www.drugs.com/cons/nicardipine.html"
+    },
+    {
+        "drugName": "Nicotine",
+        "drugLink": "https://www.drugs.com/monograph/nicotine.html"
+    },
+    {
+        "drugName": "Nifedipine",
+        "drugLink": "https://www.drugs.com/nifedipine.html"
+    },
+    {
+        "drugName": "Nilandron",
+        "drugLink": "https://www.drugs.com/mtm/nilandron.html"
+    },
+    {
+        "drugName": "Nilutamide",
+        "drugLink": "https://www.drugs.com/mtm/nilutamide.html"
+    },
+    {
+        "drugName": "Ninlaro",
+        "drugLink": "https://www.drugs.com/ninlaro.html"
+    },
+    {
+        "drugName": "Nitazoxanide",
+        "drugLink": "https://www.drugs.com/mtm/nitazoxanide.html"
+    },
+    {
+        "drugName": "Nitrofurantoin",
+        "drugLink": "https://www.drugs.com/nitrofurantoin.html"
+    },
+    {
+        "drugName": "Nitrostat",
+        "drugLink": "https://www.drugs.com/nitrostat.html"
+    },
+    {
+        "drugName": "Norco",
+        "drugLink": "https://www.drugs.com/norco.html"
+    },
+    {
+        "drugName": "Norepinephrine",
+        "drugLink": "https://www.drugs.com/mtm/norepinephrine.html"
+    },
+    {
+        "drugName": "Norethindrone",
+        "drugLink": "https://www.drugs.com/mtm/norethindrone.html"
+    },
+    {
+        "drugName": "Norflex",
+        "drugLink": "https://www.drugs.com/mtm/norflex.html"
+    },
+    {
+        "drugName": "Norfloxacin",
+        "drugLink": "https://www.drugs.com/cons/norfloxacin.html"
+    },
+    {
+        "drugName": "Nortriptyline",
+        "drugLink": "https://www.drugs.com/nortriptyline.html"
+    },
+    {
+        "drugName": "Norvasc",
+        "drugLink": "https://www.drugs.com/norvasc.html"
+    },
+    {
+        "drugName": "Nourianz",
+        "drugLink": "https://www.drugs.com/nourianz.html"
+    },
+    {
+        "drugName": "NovoLog",
+        "drugLink": "https://www.drugs.com/novolog.html"
+    },
+    {
+        "drugName": "NPlate",
+        "drugLink": "https://www.drugs.com/nplate.html"
+    },
+    {
+        "drugName": "Nubeqa",
+        "drugLink": "https://www.drugs.com/nubeqa.html"
+    },
+    {
+        "drugName": "Nucynta",
+        "drugLink": "https://www.drugs.com/nucynta.html"
+    },
+    {
+        "drugName": "Nurtec ODT",
+        "drugLink": "https://www.drugs.com/nurtec-odt.html"
+    },
+    {
+        "drugName": "Nystatin",
+        "drugLink": "https://www.drugs.com/mtm/nystatin.html"
+    },
+    {
+        "drugName": "Ocrevus",
+        "drugLink": "https://www.drugs.com/ocrevus.html"
+    },
+    {
+        "drugName": "Octreotide",
+        "drugLink": "https://www.drugs.com/cons/octreotide.html"
+    },
+    {
+        "drugName": "Ofev",
+        "drugLink": "https://www.drugs.com/ofev.html"
+    },
+    {
+        "drugName": "Ofloxacin",
+        "drugLink": "https://www.drugs.com/mtm/ofloxacin.html"
+    },
+    {
+        "drugName": "Ofloxacin ophthalmic",
+        "drugLink": "https://www.drugs.com/mtm/ofloxacin-ophthalmic.html"
+    },
+    {
+        "drugName": "Ofloxacin otic",
+        "drugLink": "https://www.drugs.com/mtm/ofloxacin-otic.html"
+    },
+    {
+        "drugName": "Olanzapine",
+        "drugLink": "https://www.drugs.com/mtm/olanzapine.html"
+    },
+    {
+        "drugName": "Olaparib",
+        "drugLink": "https://www.drugs.com/mtm/olaparib.html"
+    },
+    {
+        "drugName": "Olmesartan",
+        "drugLink": "https://www.drugs.com/mtm/olmesartan.html"
+    },
+    {
+        "drugName": "Olopatadine",
+        "drugLink": "https://www.drugs.com/monograph/olopatadine.html"
+    },
+    {
+        "drugName": "Olopatadine ophthalmic",
+        "drugLink": "https://www.drugs.com/mtm/olopatadine-ophthalmic.html"
+    },
+    {
+        "drugName": "Olumiant",
+        "drugLink": "https://www.drugs.com/olumiant.html"
+    },
+    {
+        "drugName": "Olux",
+        "drugLink": "https://www.drugs.com/mtm/olux.html"
+    },
+    {
+        "drugName": "Omalizumab",
+        "drugLink": "https://www.drugs.com/omalizumab.html"
+    },
+    {
+        "drugName": "Omega-3 polyunsaturated fatty acids",
+        "drugLink": "https://www.drugs.com/mtm/omega-3-polyunsaturated-fatty-acids.html"
+    },
+    {
+        "drugName": "Omeprazole",
+        "drugLink": "https://www.drugs.com/omeprazole.html"
+    },
+    {
+        "drugName": "Omnicef",
+        "drugLink": "https://www.drugs.com/omnicef.html"
+    },
+    {
+        "drugName": "Ondansetron",
+        "drugLink": "https://www.drugs.com/ondansetron.html"
+    },
+    {
+        "drugName": "Onfi",
+        "drugLink": "https://www.drugs.com/onfi.html"
+    },
+    {
+        "drugName": "Ongentys",
+        "drugLink": "https://www.drugs.com/ongentys.html"
+    },
+    {
+        "drugName": "Onglyza",
+        "drugLink": "https://www.drugs.com/onglyza.html"
+    },
+    {
+        "drugName": "Onpattro",
+        "drugLink": "https://www.drugs.com/onpattro.html"
+    },
+    {
+        "drugName": "Onureg",
+        "drugLink": "https://www.drugs.com/onureg.html"
+    },
+    {
+        "drugName": "Opdivo",
+        "drugLink": "https://www.drugs.com/opdivo.html"
+    },
+    {
+        "drugName": "Orapred",
+        "drugLink": "https://www.drugs.com/cons/orapred.html"
+    },
+    {
+        "drugName": "Orencia",
+        "drugLink": "https://www.drugs.com/orencia.html"
+    },
+    {
+        "drugName": "Orgovyx",
+        "drugLink": "https://www.drugs.com/orgovyx.html"
+    },
+    {
+        "drugName": "Oriahnn",
+        "drugLink": "https://www.drugs.com/oriahnn.html"
+    },
+    {
+        "drugName": "Orilissa",
+        "drugLink": "https://www.drugs.com/orilissa.html"
+    },
+    {
+        "drugName": "Orladeyo",
+        "drugLink": "https://www.drugs.com/orladeyo.html"
+    },
+    {
+        "drugName": "Orlistat",
+        "drugLink": "https://www.drugs.com/orlistat.html"
+    },
+    {
+        "drugName": "Orphenadrine",
+        "drugLink": "https://www.drugs.com/mtm/orphenadrine.html"
+    },
+    {
+        "drugName": "Oseltamivir",
+        "drugLink": "https://www.drugs.com/oseltamivir.html"
+    },
+    {
+        "drugName": "Osimertinib",
+        "drugLink": "https://www.drugs.com/mtm/osimertinib.html"
+    },
+    {
+        "drugName": "Otezla",
+        "drugLink": "https://www.drugs.com/otezla.html"
+    },
+    {
+        "drugName": "Oxaliplatin",
+        "drugLink": "https://www.drugs.com/oxaliplatin.html"
+    },
+    {
+        "drugName": "Oxandrolone",
+        "drugLink": "https://www.drugs.com/mtm/oxandrolone.html"
+    },
+    {
+        "drugName": "Oxazepam",
+        "drugLink": "https://www.drugs.com/mtm/oxazepam.html"
+    },
+    {
+        "drugName": "Oxcarbazepine",
+        "drugLink": "https://www.drugs.com/mtm/oxcarbazepine.html"
+    },
+    {
+        "drugName": "Oxtella XR",
+        "drugLink": "https://www.drugs.com/mtm/oxtellar-xr.html"
+    },
+    {
+        "drugName": "Oxybutynin",
+        "drugLink": "https://www.drugs.com/oxybutynin.html"
+    },
+    {
+        "drugName": "Oxycodone",
+        "drugLink": "https://www.drugs.com/oxycodone.html"
+    },
+    {
+        "drugName": "Oxycodone and acetaminophen",
+        "drugLink": "https://www.drugs.com/cons/oxycodone-and-acetaminophen.html"
+    },
+    {
+        "drugName": "Oxycontin",
+        "drugLink": "https://www.drugs.com/oxycontin.html"
+    },
+    {
+        "drugName": "Oxymetazoline",
+        "drugLink": "https://www.drugs.com/monograph/oxymetazoline.html"
+    },
+    {
+        "drugName": "Oxymetazoline nasal",
+        "drugLink": "https://www.drugs.com/mtm/oxymetazoline-nasal.html"
+    },
+    {
+        "drugName": "Oxytocin",
+        "drugLink": "https://www.drugs.com/mtm/oxytocin.html"
+    },
+    {
+        "drugName": "Ozanimod",
+        "drugLink": "https://www.drugs.com/ozanimod.html"
+    },
+    {
+        "drugName": "Ozempic",
+        "drugLink": "https://www.drugs.com/ozempic.html"
+    },
+    {
+        "drugName": "Pantoprazole",
+        "drugLink": "https://www.drugs.com/pantoprazole.html"
+    },
+    {
+        "drugName": "Paracetamol",
+        "drugLink": "https://www.drugs.com/paracetamol.html"
+    },
+    {
+        "drugName": "Paragard",
+        "drugLink": "https://www.drugs.com/paragard.html"
+    },
+    {
+        "drugName": "Paroxetine",
+        "drugLink": "https://www.drugs.com/paroxetine.html"
+    },
+    {
+        "drugName": "Paxil",
+        "drugLink": "https://www.drugs.com/paxil.html"
+    },
+    {
+        "drugName": "Paxlovid",
+        "drugLink": "https://www.drugs.com/paxlovid.html"
+    },
+    {
+        "drugName": "Pentasa",
+        "drugLink": "https://www.drugs.com/pentasa.html"
+    },
+    {
+        "drugName": "Pepcid",
+        "drugLink": "https://www.drugs.com/pepcid.html"
+    },
+    {
+        "drugName": "Percocet",
+        "drugLink": "https://www.drugs.com/percocet.html"
+    },
+    {
+        "drugName": "Phenazopyridine",
+        "drugLink": "https://www.drugs.com/mtm/phenazopyridine.html"
+    },
+    {
+        "drugName": "Phenergan",
+        "drugLink": "https://www.drugs.com/phenergan.html"
+    },
+    {
+        "drugName": "Phenobarbital",
+        "drugLink": "https://www.drugs.com/mtm/phenobarbital.html"
+    },
+    {
+        "drugName": "Phentermine",
+        "drugLink": "https://www.drugs.com/phentermine.html"
+    },
+    {
+        "drugName": "Phenylephrine",
+        "drugLink": "https://www.drugs.com/mtm/phenylephrine.html"
+    },
+    {
+        "drugName": "Phenytoin",
+        "drugLink": "https://www.drugs.com/phenytoin.html"
+    },
+    {
+        "drugName": "Phexxi",
+        "drugLink": "https://www.drugs.com/phexxi.html"
+    },
+    {
+        "drugName": "Pioglitazone",
+        "drugLink": "https://www.drugs.com/mtm/pioglitazone.html"
+    },
+    {
+        "drugName": "Piperacillin and tazobactam",
+        "drugLink": "https://www.drugs.com/mtm/piperacillin-and-tazobactam.html"
+    },
+    {
+        "drugName": "Plaquenil",
+        "drugLink": "https://www.drugs.com/plaquenil.html"
+    },
+    {
+        "drugName": "Plavix",
+        "drugLink": "https://www.drugs.com/plavix.html"
+    },
+    {
+        "drugName": "Polyethylene glycol 3350",
+        "drugLink": "https://www.drugs.com/mtm/polyethylene-glycol-3350.html"
+    },
+    {
+        "drugName": "Potassium Chloride",
+        "drugLink": "https://www.drugs.com/potassium_chloride.html"
+    },
+    {
+        "drugName": "Pradaxa",
+        "drugLink": "https://www.drugs.com/pradaxa.html"
+    },
+    {
+        "drugName": "Praluent",
+        "drugLink": "https://www.drugs.com/praluent.html"
+    },
+    {
+        "drugName": "Pramipexole",
+        "drugLink": "https://www.drugs.com/mtm/pramipexole.html"
+    },
+    {
+        "drugName": "Pravastatin",
+        "drugLink": "https://www.drugs.com/pravastatin.html"
+    },
+    {
+        "drugName": "Prazosin",
+        "drugLink": "https://www.drugs.com/mtm/prazosin.html"
+    },
+    {
+        "drugName": "Prednisolone",
+        "drugLink": "https://www.drugs.com/mtm/prednisolone.html"
+    },
+    {
+        "drugName": "Prednisone",
+        "drugLink": "https://www.drugs.com/prednisone.html"
+    },
+    {
+        "drugName": "Pregabalin",
+        "drugLink": "https://www.drugs.com/mtm/pregabalin.html"
+    },
+    {
+        "drugName": "Premarin",
+        "drugLink": "https://www.drugs.com/premarin.html"
+    },
+    {
+        "drugName": "Prilosec",
+        "drugLink": "https://www.drugs.com/prilosec.html"
+    },
+    {
+        "drugName": "Primidone",
+        "drugLink": "https://www.drugs.com/mtm/primidone.html"
+    },
+    {
+        "drugName": "Pristiq",
+        "drugLink": "https://www.drugs.com/pristiq.html"
+    },
+    {
+        "drugName": "ProAir HFA",
+        "drugLink": "https://www.drugs.com/mtm/proair-hfa.html"
+    },
+    {
+        "drugName": "Probuphine",
+        "drugLink": "https://www.drugs.com/probuphine.html"
+    },
+    {
+        "drugName": "Prochlorperazine",
+        "drugLink": "https://www.drugs.com/cons/prochlorperazine.html"
+    },
+    {
+        "drugName": "Prolia",
+        "drugLink": "https://www.drugs.com/prolia.html"
+    },
+    {
+        "drugName": "Promacta",
+        "drugLink": "https://www.drugs.com/promacta.html"
+    },
+    {
+        "drugName": "Promethazine",
+        "drugLink": "https://www.drugs.com/promethazine.html"
+    },
+    {
+        "drugName": "Propofol",
+        "drugLink": "https://www.drugs.com/propofol.html"
+    },
+    {
+        "drugName": "Propranolol",
+        "drugLink": "https://www.drugs.com/propranolol.html"
+    },
+    {
+        "drugName": "Protonix",
+        "drugLink": "https://www.drugs.com/protonix.html"
+    },
+    {
+        "drugName": "Provenge",
+        "drugLink": "https://www.drugs.com/provenge.html"
+    },
+    {
+        "drugName": "Prozac",
+        "drugLink": "https://www.drugs.com/prozac.html"
+    },
+    {
+        "drugName": "Pseudoephedrine",
+        "drugLink": "https://www.drugs.com/pseudoephedrine.html"
+    },
+    {
+        "drugName": "Pyridium",
+        "drugLink": "https://www.drugs.com/pyridium.html"
+    },
+    {
+        "drugName": "Qbrelis",
+        "drugLink": "https://www.drugs.com/mtm/qbrelis.html"
+    },
+    {
+        "drugName": "Qbrexza",
+        "drugLink": "https://www.drugs.com/cons/qbrexza.html"
+    },
+    {
+        "drugName": "Qdolo",
+        "drugLink": "https://www.drugs.com/qdolo.html"
+    },
+    {
+        "drugName": "Qelbree",
+        "drugLink": "https://www.drugs.com/qelbree.html"
+    },
+    {
+        "drugName": "Qinlock",
+        "drugLink": "https://www.drugs.com/qinlock.html"
+    },
+    {
+        "drugName": "QNASL",
+        "drugLink": "https://www.drugs.com/qnasl.html"
+    },
+    {
+        "drugName": "Qsymia",
+        "drugLink": "https://www.drugs.com/qsymia.html"
+    },
+    {
+        "drugName": "Qtern",
+        "drugLink": "https://www.drugs.com/qtern.html"
+    },
+    {
+        "drugName": "Qualaquin",
+        "drugLink": "https://www.drugs.com/mtm/qualaquin.html"
+    },
+    {
+        "drugName": "Quasense",
+        "drugLink": "https://www.drugs.com/pro/quasense.html"
+    },
+    {
+        "drugName": "Quassia",
+        "drugLink": "https://www.drugs.com/npp/quassia.html"
+    },
+    {
+        "drugName": "Quazepam",
+        "drugLink": "https://www.drugs.com/mtm/quazepam.html"
+    },
+    {
+        "drugName": "Qudexy XR",
+        "drugLink": "https://www.drugs.com/cons/qudexy-xr.html"
+    },
+    {
+        "drugName": "Quelicin",
+        "drugLink": "https://www.drugs.com/pro/quelicin.html"
+    },
+    {
+        "drugName": "Quercetin",
+        "drugLink": "https://www.drugs.com/npc/quercetin.html"
+    },
+    {
+        "drugName": "Questran",
+        "drugLink": "https://www.drugs.com/cons/questran.html"
+    },
+    {
+        "drugName": "Questran Light",
+        "drugLink": "https://www.drugs.com/cons/questran-light.html"
+    },
+    {
+        "drugName": "Quetiapine",
+        "drugLink": "https://www.drugs.com/mtm/quetiapine.html"
+    },
+    {
+        "drugName": "Quibron-T/SR",
+        "drugLink": "https://www.drugs.com/cons/quibron-t-sr.html"
+    },
+    {
+        "drugName": "QuilliChew ER",
+        "drugLink": "https://www.drugs.com/cons/quillichew-er.html"
+    },
+    {
+        "drugName": "Quillivant XR",
+        "drugLink": "https://www.drugs.com/quillivant-xr.html"
+    },
+    {
+        "drugName": "Quinapril",
+        "drugLink": "https://www.drugs.com/mtm/quinapril.html"
+    },
+    {
+        "drugName": "Quinidine",
+        "drugLink": "https://www.drugs.com/mtm/quinidine.html"
+    },
+    {
+        "drugName": "Quinine",
+        "drugLink": "https://www.drugs.com/mtm/quinine.html"
+    },
+    {
+        "drugName": "Qulipta",
+        "drugLink": "https://www.drugs.com/qulipta.html"
+    },
+    {
+        "drugName": "Qutenza",
+        "drugLink": "https://www.drugs.com/qutenza.html"
+    },
+    {
+        "drugName": "Quviviq",
+        "drugLink": "https://www.drugs.com/quviviq.html"
+    },
+    {
+        "drugName": "Qvar",
+        "drugLink": "https://www.drugs.com/cons/qvar.html"
+    },
+    {
+        "drugName": "Qvar Redihaler",
+        "drugLink": "https://www.drugs.com/mtm/qvar-redihaler.html"
+    },
+    {
+        "drugName": "Rabeprazole",
+        "drugLink": "https://www.drugs.com/mtm/rabeprazole.html"
+    },
+    {
+        "drugName": "Raloxifene",
+        "drugLink": "https://www.drugs.com/mtm/raloxifene.html"
+    },
+    {
+        "drugName": "Ramelteon",
+        "drugLink": "https://www.drugs.com/mtm/ramelteon.html"
+    },
+    {
+        "drugName": "Ramipril",
+        "drugLink": "https://www.drugs.com/ramipril.html"
+    },
+    {
+        "drugName": "Ranexa",
+        "drugLink": "https://www.drugs.com/ranexa.html"
+    },
+    {
+        "drugName": "Ranitidine",
+        "drugLink": "https://www.drugs.com/ranitidine.html"
+    },
+    {
+        "drugName": "Ranolazine",
+        "drugLink": "https://www.drugs.com/mtm/ranolazine.html"
+    },
+    {
+        "drugName": "Rapamune",
+        "drugLink": "https://www.drugs.com/rapamune.html"
+    },
+    {
+        "drugName": "Reclast",
+        "drugLink": "https://www.drugs.com/reclast.html"
+    },
+    {
+        "drugName": "Reglan",
+        "drugLink": "https://www.drugs.com/reglan.html"
+    },
+    {
+        "drugName": "Relafen",
+        "drugLink": "https://www.drugs.com/relafen.html"
+    },
+    {
+        "drugName": "Relugolix",
+        "drugLink": "https://www.drugs.com/mtm/relugolix.html"
+    },
+    {
+        "drugName": "Remdesivir",
+        "drugLink": "https://www.drugs.com/mtm/remdesivir.html"
+    },
+    {
+        "drugName": "Remeron",
+        "drugLink": "https://www.drugs.com/remeron.html"
+    },
+    {
+        "drugName": "Remicade",
+        "drugLink": "https://www.drugs.com/remicade.html"
+    },
+    {
+        "drugName": "Renflexis",
+        "drugLink": "https://www.drugs.com/mtm/renflexis.html"
+    },
+    {
+        "drugName": "Repaglinide",
+        "drugLink": "https://www.drugs.com/mtm/repaglinide.html"
+    },
+    {
+        "drugName": "Repatha",
+        "drugLink": "https://www.drugs.com/repatha.html"
+    },
+    {
+        "drugName": "Requip",
+        "drugLink": "https://www.drugs.com/requip.html"
+    },
+    {
+        "drugName": "Restasis",
+        "drugLink": "https://www.drugs.com/restasis.html"
+    },
+    {
+        "drugName": "Restoril",
+        "drugLink": "https://www.drugs.com/restoril.html"
+    },
+    {
+        "drugName": "Retevmo",
+        "drugLink": "https://www.drugs.com/retevmo.html"
+    },
+    {
+        "drugName": "Revlimid",
+        "drugLink": "https://www.drugs.com/revlimid.html"
+    },
+    {
+        "drugName": "Rexulti",
+        "drugLink": "https://www.drugs.com/rexulti.html"
+    },
+    {
+        "drugName": "Reyvow",
+        "drugLink": "https://www.drugs.com/reyvow.html"
+    },
+    {
+        "drugName": "Rifampin",
+        "drugLink": "https://www.drugs.com/mtm/rifampin.html"
+    },
+    {
+        "drugName": "Rifaximin",
+        "drugLink": "https://www.drugs.com/mtm/rifaximin.html"
+    },
+    {
+        "drugName": "Rinvoq",
+        "drugLink": "https://www.drugs.com/rinvoq.html"
+    },
+    {
+        "drugName": "Risdiplam",
+        "drugLink": "https://www.drugs.com/mtm/risdiplam.html"
+    },
+    {
+        "drugName": "Risedronate",
+        "drugLink": "https://www.drugs.com/mtm/risedronate.html"
+    },
+    {
+        "drugName": "Risperdal",
+        "drugLink": "https://www.drugs.com/risperdal.html"
+    },
+    {
+        "drugName": "Risperidone",
+        "drugLink": "https://www.drugs.com/risperidone.html"
+    },
+    {
+        "drugName": "Ritalin",
+        "drugLink": "https://www.drugs.com/ritalin.html"
+    },
+    {
+        "drugName": "Ritonavir",
+        "drugLink": "https://www.drugs.com/mtm/ritonavir.html"
+    },
+    {
+        "drugName": "Rituxan",
+        "drugLink": "https://www.drugs.com/rituxan.html"
+    },
+    {
+        "drugName": "Rituxan Hycela",
+        "drugLink": "https://www.drugs.com/rituxan-hycela.html"
+    },
+    {
+        "drugName": "Rituximab",
+        "drugLink": "https://www.drugs.com/rituximab.html"
+    },
+    {
+        "drugName": "Rivaroxaban",
+        "drugLink": "https://www.drugs.com/mtm/rivaroxaban.html"
+    },
+    {
+        "drugName": "Rivastigmine",
+        "drugLink": "https://www.drugs.com/mtm/rivastigmine.html"
+    },
+    {
+        "drugName": "Rizatriptan",
+        "drugLink": "https://www.drugs.com/mtm/rizatriptan.html"
+    },
+    {
+        "drugName": "Robaxin",
+        "drugLink": "https://www.drugs.com/robaxin.html"
+    },
+    {
+        "drugName": "Robitussin",
+        "drugLink": "https://www.drugs.com/robitussin.html"
+    },
+    {
+        "drugName": "Rocephin",
+        "drugLink": "https://www.drugs.com/rocephin.html"
+    },
+    {
+        "drugName": "Ropinirole",
+        "drugLink": "https://www.drugs.com/mtm/ropinirole.html"
+    },
+    {
+        "drugName": "Rosuvastatin",
+        "drugLink": "https://www.drugs.com/mtm/rosuvastatin.html"
+    },
+    {
+        "drugName": "Rowasa",
+        "drugLink": "https://www.drugs.com/mtm/rowasa-rectal.html"
+    },
+    {
+        "drugName": "Roxicodone",
+        "drugLink": "https://www.drugs.com/roxicodone.html"
+    },
+    {
+        "drugName": "Ruconest",
+        "drugLink": "https://www.drugs.com/ruconest.html"
+    },
+    {
+        "drugName": "Rybelsus",
+        "drugLink": "https://www.drugs.com/rybelsus.html"
+    },
+    {
+        "drugName": "Rydapt",
+        "drugLink": "https://www.drugs.com/rydapt.html"
+    },
+    {
+        "drugName": "Rytary",
+        "drugLink": "https://www.drugs.com/rytary.html"
+    },
+    {
+        "drugName": "Sabril",
+        "drugLink": "https://www.drugs.com/sabril.html"
+    },
+    {
+        "drugName": "Sacubitril and valsartan",
+        "drugLink": "https://www.drugs.com/mtm/sacubitril-and-valsartan.html"
+    },
+    {
+        "drugName": "Salbutamol",
+        "drugLink": "https://www.drugs.com/cons/salbutamol.html"
+    },
+    {
+        "drugName": "Salmeterol",
+        "drugLink": "https://www.drugs.com/monograph/salmeterol.html"
+    },
+    {
+        "drugName": "Sandostatin",
+        "drugLink": "https://www.drugs.com/sandostatin.html"
+    },
+    {
+        "drugName": "Saxagliptin",
+        "drugLink": "https://www.drugs.com/mtm/saxagliptin.html"
+    },
+    {
+        "drugName": "Saxenda",
+        "drugLink": "https://www.drugs.com/saxenda.html"
+    },
+    {
+        "drugName": "Scopolamine",
+        "drugLink": "https://www.drugs.com/monograph/scopolamine.html"
+    },
+    {
+        "drugName": "secukinumab",
+        "drugLink": "https://www.drugs.com/mtm/secukinumab.html"
+    },
+    {
+        "drugName": "Selegiline",
+        "drugLink": "https://www.drugs.com/mtm/selegiline.html"
+    },
+    {
+        "drugName": "Semaglutide",
+        "drugLink": "https://www.drugs.com/semaglutide.html"
+    },
+    {
+        "drugName": "Senna",
+        "drugLink": "https://www.drugs.com/senna.html"
+    },
+    {
+        "drugName": "Senokot",
+        "drugLink": "https://www.drugs.com/mtm/senokot.html"
+    },
+    {
+        "drugName": "Sernivo",
+        "drugLink": "https://www.drugs.com/mtm/sernivo.html"
+    },
+    {
+        "drugName": "Seroquel",
+        "drugLink": "https://www.drugs.com/seroquel.html"
+    },
+    {
+        "drugName": "Sertraline",
+        "drugLink": "https://www.drugs.com/sertraline.html"
+    },
+    {
+        "drugName": "Sevelamer",
+        "drugLink": "https://www.drugs.com/mtm/sevelamer.html"
+    },
+    {
+        "drugName": "Shingrix",
+        "drugLink": "https://www.drugs.com/shingrix.html"
+    },
+    {
+        "drugName": "Sildenafil",
+        "drugLink": "https://www.drugs.com/sildenafil.html"
+    },
+    {
+        "drugName": "Simethicone",
+        "drugLink": "https://www.drugs.com/mtm/simethicone.html"
+    },
+    {
+        "drugName": "Simponi",
+        "drugLink": "https://www.drugs.com/simponi.html"
+    },
+    {
+        "drugName": "Simvastatin",
+        "drugLink": "https://www.drugs.com/simvastatin.html"
+    },
+    {
+        "drugName": "Sinemet",
+        "drugLink": "https://www.drugs.com/sinemet.html"
+    },
+    {
+        "drugName": "Singulair",
+        "drugLink": "https://www.drugs.com/singulair.html"
+    },
+    {
+        "drugName": "Sitagliptin",
+        "drugLink": "https://www.drugs.com/mtm/sitagliptin.html"
+    },
+    {
+        "drugName": "Skelaxin",
+        "drugLink": "https://www.drugs.com/skelaxin.html"
+    },
+    {
+        "drugName": "Skyrizi",
+        "drugLink": "https://www.drugs.com/skyrizi.html"
+    },
+    {
+        "drugName": "Sodium bicarbonate",
+        "drugLink": "https://www.drugs.com/mtm/sodium-bicarbonate.html"
+    },
+    {
+        "drugName": "Sodium chloride",
+        "drugLink": "https://www.drugs.com/cons/sodium-chloride.html"
+    },
+    {
+        "drugName": "Sofosbuvir",
+        "drugLink": "https://www.drugs.com/sofosbuvir.html"
+    },
+    {
+        "drugName": "Solifenacin",
+        "drugLink": "https://www.drugs.com/mtm/solifenacin.html"
+    },
+    {
+        "drugName": "Soliqua",
+        "drugLink": "https://www.drugs.com/soliqua.html"
+    },
+    {
+        "drugName": "Soliris",
+        "drugLink": "https://www.drugs.com/soliris.html"
+    },
+    {
+        "drugName": "Soma",
+        "drugLink": "https://www.drugs.com/soma.html"
+    },
+    {
+        "drugName": "Somatuline Depot",
+        "drugLink": "https://www.drugs.com/somatuline-depot.html"
+    },
+    {
+        "drugName": "Somavert",
+        "drugLink": "https://www.drugs.com/somavert.html"
+    },
+    {
+        "drugName": "Sotalol",
+        "drugLink": "https://www.drugs.com/mtm/sotalol.html"
+    },
+    {
+        "drugName": "Sovaldi",
+        "drugLink": "https://www.drugs.com/sovaldi.html"
+    },
+    {
+        "drugName": "Spinraza",
+        "drugLink": "https://www.drugs.com/mtm/spinraza-injection.html"
+    },
+    {
+        "drugName": "Spiriva",
+        "drugLink": "https://www.drugs.com/spiriva.html"
+    },
+    {
+        "drugName": "Spiriva Respimat",
+        "drugLink": "https://www.drugs.com/mtm/spiriva-respimat.html"
+    },
+    {
+        "drugName": "Spironolactone",
+        "drugLink": "https://www.drugs.com/spironolactone.html"
+    },
+    {
+        "drugName": "Sprycel",
+        "drugLink": "https://www.drugs.com/sprycel.html"
+    },
+    {
+        "drugName": "Stelara",
+        "drugLink": "https://www.drugs.com/stelara.html"
+    },
+    {
+        "drugName": "Strattera",
+        "drugLink": "https://www.drugs.com/strattera.html"
+    },
+    {
+        "drugName": "Stribild",
+        "drugLink": "https://www.drugs.com/stribild.html"
+    },
+    {
+        "drugName": "Sublocade",
+        "drugLink": "https://www.drugs.com/sublocade.html"
+    },
+    {
+        "drugName": "Suboxone",
+        "drugLink": "https://www.drugs.com/suboxone.html"
+    },
+    {
+        "drugName": "Subutex",
+        "drugLink": "https://www.drugs.com/subutex.html"
+    },
+    {
+        "drugName": "Sucralfate",
+        "drugLink": "https://www.drugs.com/mtm/sucralfate.html"
+    },
+    {
+        "drugName": "Sudafed",
+        "drugLink": "https://www.drugs.com/sudafed.html"
+    },
+    {
+        "drugName": "Sulfamethoxazole and trimethoprim",
+        "drugLink": "https://www.drugs.com/mtm/sulfamethoxazole-and-trimethoprim.html"
+    },
+    {
+        "drugName": "Sulfasalazine",
+        "drugLink": "https://www.drugs.com/sulfasalazine.html"
+    },
+    {
+        "drugName": "Sumatriptan",
+        "drugLink": "https://www.drugs.com/cons/sumatriptan.html"
+    },
+    {
+        "drugName": "Supprelin LA",
+        "drugLink": "https://www.drugs.com/cdi/supprelin-la.html"
+    },
+    {
+        "drugName": "Sutent",
+        "drugLink": "https://www.drugs.com/sutent.html"
+    },
+    {
+        "drugName": "Symbicort",
+        "drugLink": "https://www.drugs.com/symbicort.html"
+    },
+    {
+        "drugName": "Sympazan",
+        "drugLink": "https://www.drugs.com/sympazan.html"
+    },
+    {
+        "drugName": "Synthroid",
+        "drugLink": "https://www.drugs.com/synthroid.html"
+    },
+    {
+        "drugName": "Tacrolimus",
+        "drugLink": "https://www.drugs.com/pro/tacrolimus.html"
+    },
+    {
+        "drugName": "Tadalafil",
+        "drugLink": "https://www.drugs.com/tadalafil.html"
+    },
+    {
+        "drugName": "Takhzyro",
+        "drugLink": "https://www.drugs.com/takhzyro.html"
+    },
+    {
+        "drugName": "Taltz",
+        "drugLink": "https://www.drugs.com/taltz.html"
+    },
+    {
+        "drugName": "Tamiflu",
+        "drugLink": "https://www.drugs.com/tamiflu.html"
+    },
+    {
+        "drugName": "Tamoxifen",
+        "drugLink": "https://www.drugs.com/tamoxifen.html"
+    },
+    {
+        "drugName": "Tamsulosin",
+        "drugLink": "https://www.drugs.com/tamsulosin.html"
+    },
+    {
+        "drugName": "Tazarotene",
+        "drugLink": "https://www.drugs.com/tazarotene-topical.html"
+    },
+    {
+        "drugName": "Tazorac",
+        "drugLink": "https://www.drugs.com/tazorac.html"
+    },
+    {
+        "drugName": "Tecartus",
+        "drugLink": "https://www.drugs.com/tecartus.html"
+    },
+    {
+        "drugName": "Tecentriq",
+        "drugLink": "https://www.drugs.com/tecentriq.html"
+    },
+    {
+        "drugName": "Tegretol",
+        "drugLink": "https://www.drugs.com/tegretol.html"
+    },
+    {
+        "drugName": "Telmisartan",
+        "drugLink": "https://www.drugs.com/mtm/telmisartan.html"
+    },
+    {
+        "drugName": "Temazepam",
+        "drugLink": "https://www.drugs.com/temazepam.html"
+    },
+    {
+        "drugName": "Temovate",
+        "drugLink": "https://www.drugs.com/mtm/temovate.html"
+    },
+    {
+        "drugName": "Tenormin",
+        "drugLink": "https://www.drugs.com/tenormin.html"
+    },
+    {
+        "drugName": "Tepezza",
+        "drugLink": "https://www.drugs.com/mtm/tepezza.html"
+    },
+    {
+        "drugName": "Terazosin",
+        "drugLink": "https://www.drugs.com/terazosin.html"
+    },
+    {
+        "drugName": "Terbinafine",
+        "drugLink": "https://www.drugs.com/mtm/terbinafine.html"
+    },
+    {
+        "drugName": "Testosterone",
+        "drugLink": "https://www.drugs.com/testosterone.html"
+    },
+    {
+        "drugName": "Tetracycline",
+        "drugLink": "https://www.drugs.com/tetracycline.html"
+    },
+    {
+        "drugName": "Theophylline",
+        "drugLink": "https://www.drugs.com/mtm/theophylline.html"
+    },
+    {
+        "drugName": "Thiamine",
+        "drugLink": "https://www.drugs.com/mtm/thiamine.html"
+    },
+    {
+        "drugName": "Tibsovo",
+        "drugLink": "https://www.drugs.com/tibsovo.html"
+    },
+    {
+        "drugName": "Ticagrelor",
+        "drugLink": "https://www.drugs.com/mtm/ticagrelor.html"
+    },
+    {
+        "drugName": "Timolol",
+        "drugLink": "https://www.drugs.com/mtm/timolol.html"
+    },
+    {
+        "drugName": "Tiotropium",
+        "drugLink": "https://www.drugs.com/monograph/tiotropium.html"
+    },
+    {
+        "drugName": "Tizanidine",
+        "drugLink": "https://www.drugs.com/tizanidine.html"
+    },
+    {
+        "drugName": "Tolterodine",
+        "drugLink": "https://www.drugs.com/mtm/tolterodine.html"
+    },
+    {
+        "drugName": "Topamax",
+        "drugLink": "https://www.drugs.com/topamax.html"
+    },
+    {
+        "drugName": "Topiramate",
+        "drugLink": "https://www.drugs.com/mtm/topiramate.html"
+    },
+    {
+        "drugName": "Toprol XL",
+        "drugLink": "https://www.drugs.com/toprol.html"
+    },
+    {
+        "drugName": "Toradol",
+        "drugLink": "https://www.drugs.com/toradol.html"
+    },
+    {
+        "drugName": "Torsemide",
+        "drugLink": "https://www.drugs.com/mtm/torsemide.html"
+    },
+    {
+        "drugName": "Toujeo",
+        "drugLink": "https://www.drugs.com/toujeo.html"
+    },
+    {
+        "drugName": "Tradjenta",
+        "drugLink": "https://www.drugs.com/tradjenta.html"
+    },
+    {
+        "drugName": "Tramadol",
+        "drugLink": "https://www.drugs.com/tramadol.html"
+    },
+    {
+        "drugName": "Tranexamic acid",
+        "drugLink": "https://www.drugs.com/mtm/tranexamic-acid.html"
+    },
+    {
+        "drugName": "Trazodone",
+        "drugLink": "https://www.drugs.com/trazodone.html"
+    },
+    {
+        "drugName": "Treanda",
+        "drugLink": "https://www.drugs.com/treanda.html"
+    },
+    {
+        "drugName": "Trelegy Ellipta",
+        "drugLink": "https://www.drugs.com/trelegy-ellipta.html"
+    },
+    {
+        "drugName": "Trelstar",
+        "drugLink": "https://www.drugs.com/trelstar.html"
+    },
+    {
+        "drugName": "Tremfya",
+        "drugLink": "https://www.drugs.com/tremfya.html"
+    },
+    {
+        "drugName": "Tresiba",
+        "drugLink": "https://www.drugs.com/cons/tresiba.html"
+    },
+    {
+        "drugName": "Tretinoin",
+        "drugLink": "https://www.drugs.com/mtm/tretinoin.html"
+    },
+    {
+        "drugName": "Triamcinolone",
+        "drugLink": "https://www.drugs.com/triamcinolone.html"
+    },
+    {
+        "drugName": "Triamterene",
+        "drugLink": "https://www.drugs.com/triamterene.html"
+    },
+    {
+        "drugName": "Trileptal",
+        "drugLink": "https://www.drugs.com/trileptal.html"
+    },
+    {
+        "drugName": "Trimethoprim",
+        "drugLink": "https://www.drugs.com/mtm/trimethoprim.html"
+    },
+    {
+        "drugName": "Trintellix",
+        "drugLink": "https://www.drugs.com/trintellix.html"
+    },
+    {
+        "drugName": "Triptorelin",
+        "drugLink": "https://www.drugs.com/triptorelin.html"
+    },
+    {
+        "drugName": "Triumeq",
+        "drugLink": "https://www.drugs.com/triumeq.html"
+    },
+    {
+        "drugName": "Trokendi XR",
+        "drugLink": "https://www.drugs.com/trokendi-xr.html"
+    },
+    {
+        "drugName": "Trulicity",
+        "drugLink": "https://www.drugs.com/cons/trulicity.html"
+    },
+    {
+        "drugName": "Truxima",
+        "drugLink": "https://www.drugs.com/truxima.html"
+    },
+    {
+        "drugName": "Twirla",
+        "drugLink": "https://www.drugs.com/twirla.html"
+    },
+    {
+        "drugName": "Tylenol",
+        "drugLink": "https://www.drugs.com/tylenol.html"
+    },
+    {
+        "drugName": "Tylenol with Codeine #3",
+        "drugLink": "https://www.drugs.com/mtm/tylenol-with-codeine-3.html"
+    },
+    {
+        "drugName": "Tysabri",
+        "drugLink": "https://www.drugs.com/tysabri.html"
+    },
+    {
+        "drugName": "Ubiquinone",
+        "drugLink": "https://www.drugs.com/npc/ubiquinone.html"
+    },
+    {
+        "drugName": "Ubrelvy",
+        "drugLink": "https://www.drugs.com/ubrelvy.html"
+    },
+    {
+        "drugName": "Ubrogepant",
+        "drugLink": "https://www.drugs.com/ubrogepant.html"
+    },
+    {
+        "drugName": "Uceris",
+        "drugLink": "https://www.drugs.com/uceris.html"
+    },
+    {
+        "drugName": "Udenyca",
+        "drugLink": "https://www.drugs.com/mtm/udenyca.html"
+    },
+    {
+        "drugName": "Ukoniq",
+        "drugLink": "https://www.drugs.com/ukoniq.html"
+    },
+    {
+        "drugName": "Ulipristal",
+        "drugLink": "https://www.drugs.com/mtm/ulipristal.html"
+    },
+    {
+        "drugName": "Uloric",
+        "drugLink": "https://www.drugs.com/uloric.html"
+    },
+    {
+        "drugName": "Ultane",
+        "drugLink": "https://www.drugs.com/ultane.html"
+    },
+    {
+        "drugName": "Ultomiris",
+        "drugLink": "https://www.drugs.com/ultomiris.html"
+    },
+    {
+        "drugName": "Ultracet",
+        "drugLink": "https://www.drugs.com/ultracet.html"
+    },
+    {
+        "drugName": "Ultram",
+        "drugLink": "https://www.drugs.com/ultram.html"
+    },
+    {
+        "drugName": "Ultram ER",
+        "drugLink": "https://www.drugs.com/mtm/ultram-er.html"
+    },
+    {
+        "drugName": "Ultravate",
+        "drugLink": "https://www.drugs.com/mtm/ultravate.html"
+    },
+    {
+        "drugName": "Ultravist",
+        "drugLink": "https://www.drugs.com/cons/ultravist.html"
+    },
+    {
+        "drugName": "Umbralisib",
+        "drugLink": "https://www.drugs.com/mtm/umbralisib.html"
+    },
+    {
+        "drugName": "Umeclidinium",
+        "drugLink": "https://www.drugs.com/mtm/umeclidinium.html"
+    },
+    {
+        "drugName": "Umeclidinium and vilanterol",
+        "drugLink": "https://www.drugs.com/mtm/umeclidinium-and-vilanterol.html"
+    },
+    {
+        "drugName": "Unasyn",
+        "drugLink": "https://www.drugs.com/mtm/unasyn.html"
+    },
+    {
+        "drugName": "Unisom",
+        "drugLink": "https://www.drugs.com/mtm/unisom.html"
+    },
+    {
+        "drugName": "Unisom Sleep Gels",
+        "drugLink": "https://www.drugs.com/mtm/unisom-sleep-gels.html"
+    },
+    {
+        "drugName": "Unithroid",
+        "drugLink": "https://www.drugs.com/cons/unithroid.html"
+    },
+    {
+        "drugName": "Univasc",
+        "drugLink": "https://www.drugs.com/mtm/univasc.html"
+    },
+    {
+        "drugName": "Upadacitinib",
+        "drugLink": "https://www.drugs.com/upadacitinib.html"
+    },
+    {
+        "drugName": "Uplizna",
+        "drugLink": "https://www.drugs.com/uplizna.html"
+    },
+    {
+        "drugName": "Upneeq",
+        "drugLink": "https://www.drugs.com/mtm/upneeq.html"
+    },
+    {
+        "drugName": "Uptravi",
+        "drugLink": "https://www.drugs.com/uptravi.html"
+    },
+    {
+        "drugName": "Urea Cream",
+        "drugLink": "https://www.drugs.com/pro/urea-cream.html"
+    },
+    {
+        "drugName": "Urea topical",
+        "drugLink": "https://www.drugs.com/mtm/urea-topical.html"
+    },
+    {
+        "drugName": "Urecholine",
+        "drugLink": "https://www.drugs.com/mtm/urecholine.html"
+    },
+    {
+        "drugName": "Uribel",
+        "drugLink": "https://www.drugs.com/mtm/uribel.html"
+    },
+    {
+        "drugName": "Urispas",
+        "drugLink": "https://www.drugs.com/mtm/urispas.html"
+    },
+    {
+        "drugName": "Urocit-K",
+        "drugLink": "https://www.drugs.com/mtm/urocit-k.html"
+    },
+    {
+        "drugName": "Urogesic-Blue",
+        "drugLink": "https://www.drugs.com/mtm/urogesic-blue.html"
+    },
+    {
+        "drugName": "Uroxatral",
+        "drugLink": "https://www.drugs.com/uroxatral.html"
+    },
+    {
+        "drugName": "Urso",
+        "drugLink": "https://www.drugs.com/mtm/urso.html"
+    },
+    {
+        "drugName": "Urso Forte",
+        "drugLink": "https://www.drugs.com/mtm/urso-forte.html"
+    },
+    {
+        "drugName": "Ursodiol",
+        "drugLink": "https://www.drugs.com/mtm/ursodiol.html"
+    },
+    {
+        "drugName": "Ustekinumab",
+        "drugLink": "https://www.drugs.com/ustekinumab.html"
+    },
+    {
+        "drugName": "Ustell",
+        "drugLink": "https://www.drugs.com/mtm/ustell.html"
+    },
+    {
+        "drugName": "Valacyclovir",
+        "drugLink": "https://www.drugs.com/valacyclovir.html"
+    },
+    {
+        "drugName": "Valium",
+        "drugLink": "https://www.drugs.com/valium.html"
+    },
+    {
+        "drugName": "Valproic acid",
+        "drugLink": "https://www.drugs.com/mtm/valproic-acid.html"
+    },
+    {
+        "drugName": "Valsartan",
+        "drugLink": "https://www.drugs.com/mtm/valsartan.html"
+    },
+    {
+        "drugName": "Valtoco",
+        "drugLink": "https://www.drugs.com/valtoco.html"
+    },
+    {
+        "drugName": "Valtrex",
+        "drugLink": "https://www.drugs.com/valtrex.html"
+    },
+    {
+        "drugName": "Vancomycin",
+        "drugLink": "https://www.drugs.com/vancomycin.html"
+    },
+    {
+        "drugName": "Vanos",
+        "drugLink": "https://www.drugs.com/mtm/vanos.html"
+    },
+    {
+        "drugName": "Vardenafil",
+        "drugLink": "https://www.drugs.com/mtm/vardenafil.html"
+    },
+    {
+        "drugName": "Varenicline",
+        "drugLink": "https://www.drugs.com/mtm/varenicline.html"
+    },
+    {
+        "drugName": "Vascepa",
+        "drugLink": "https://www.drugs.com/vascepa.html"
+    },
+    {
+        "drugName": "Vasotec",
+        "drugLink": "https://www.drugs.com/vasotec.html"
+    },
+    {
+        "drugName": "Velcade",
+        "drugLink": "https://www.drugs.com/velcade.html"
+    },
+    {
+        "drugName": "Venclexta",
+        "drugLink": "https://www.drugs.com/venclexta.html"
+    },
+    {
+        "drugName": "Venlafaxine",
+        "drugLink": "https://www.drugs.com/venlafaxine.html"
+    },
+    {
+        "drugName": "Venofer",
+        "drugLink": "https://www.drugs.com/venofer.html"
+    },
+    {
+        "drugName": "Ventolin",
+        "drugLink": "https://www.drugs.com/cons/ventolin.html"
+    },
+    {
+        "drugName": "Ventolin HFA",
+        "drugLink": "https://www.drugs.com/ventolin.html"
+    },
+    {
+        "drugName": "Verapamil",
+        "drugLink": "https://www.drugs.com/verapamil.html"
+    },
+    {
+        "drugName": "Versed",
+        "drugLink": "https://www.drugs.com/mtm/versed.html"
+    },
+    {
+        "drugName": "Verzenio",
+        "drugLink": "https://www.drugs.com/verzenio.html"
+    },
+    {
+        "drugName": "VESIcare",
+        "drugLink": "https://www.drugs.com/vesicare.html"
+    },
+    {
+        "drugName": "Viagra",
+        "drugLink": "https://www.drugs.com/viagra.html"
+    },
+    {
+        "drugName": "Vibramycin",
+        "drugLink": "https://www.drugs.com/pro/vibramycin.html"
+    },
+    {
+        "drugName": "Vicodin",
+        "drugLink": "https://www.drugs.com/vicodin.html"
+    },
+    {
+        "drugName": "Victoza",
+        "drugLink": "https://www.drugs.com/victoza.html"
+    },
+    {
+        "drugName": "Viibryd",
+        "drugLink": "https://www.drugs.com/viibryd.html"
+    },
+    {
+        "drugName": "Vilazodone",
+        "drugLink": "https://www.drugs.com/mtm/vilazodone.html"
+    },
+    {
+        "drugName": "Vimpat",
+        "drugLink": "https://www.drugs.com/vimpat.html"
+    },
+    {
+        "drugName": "Vincristine",
+        "drugLink": "https://www.drugs.com/mtm/vincristine.html"
+    },
+    {
+        "drugName": "Vistaril",
+        "drugLink": "https://www.drugs.com/vistaril.html"
+    },
+    {
+        "drugName": "Vitamin A",
+        "drugLink": "https://www.drugs.com/mtm/vitamin-a.html"
+    },
+    {
+        "drugName": "Vitamin B12",
+        "drugLink": "https://www.drugs.com/monograph/vitamin-b12.html"
+    },
+    {
+        "drugName": "Vitamin C",
+        "drugLink": "https://www.drugs.com/mtm/vitamin-c.html"
+    },
+    {
+        "drugName": "Vitamin D",
+        "drugLink": "https://www.drugs.com/vitamin-d.html"
+    },
+    {
+        "drugName": "Vitamin D3",
+        "drugLink": "https://www.drugs.com/mtm/vitamin-d3.html"
+    },
+    {
+        "drugName": "Vitamin E",
+        "drugLink": "https://www.drugs.com/vitamin_e.html"
+    },
+    {
+        "drugName": "Vivitrol",
+        "drugLink": "https://www.drugs.com/vivitrol.html"
+    },
+    {
+        "drugName": "Voltaren",
+        "drugLink": "https://www.drugs.com/voltaren.html"
+    },
+    {
+        "drugName": "Voltaren Arthritis Pain Gel",
+        "drugLink": "https://www.drugs.com/voltaren-gel.html"
+    },
+    {
+        "drugName": "Voriconazole",
+        "drugLink": "https://www.drugs.com/cons/voriconazole.html"
+    },
+    {
+        "drugName": "Vortioxetine",
+        "drugLink": "https://www.drugs.com/mtm/vortioxetine.html"
+    },
+    {
+        "drugName": "Vosevi",
+        "drugLink": "https://www.drugs.com/vosevi.html"
+    },
+    {
+        "drugName": "Votrient",
+        "drugLink": "https://www.drugs.com/votrient.html"
+    },
+    {
+        "drugName": "Vraylar",
+        "drugLink": "https://www.drugs.com/vraylar.html"
+    },
+    {
+        "drugName": "Vyepti",
+        "drugLink": "https://www.drugs.com/vyepti.html"
+    },
+    {
+        "drugName": "Vyndamax",
+        "drugLink": "https://www.drugs.com/vyndamax.html"
+    },
+    {
+        "drugName": "Vytorin",
+        "drugLink": "https://www.drugs.com/vytorin.html"
+    },
+    {
+        "drugName": "Vyvanse",
+        "drugLink": "https://www.drugs.com/vyvanse.html"
+    },
+    {
+        "drugName": "Wakix",
+        "drugLink": "https://www.drugs.com/wakix.html"
+    },
+    {
+        "drugName": "Wal-Zyr D",
+        "drugLink": "https://www.drugs.com/pro/wal-zyr-d.html"
+    },
+    {
+        "drugName": "Warfarin",
+        "drugLink": "https://www.drugs.com/warfarin.html"
+    },
+    {
+        "drugName": "Wart Remover",
+        "drugLink": "https://www.drugs.com/mtm/wart-remover.html"
+    },
+    {
+        "drugName": "Water for Injection",
+        "drugLink": "https://www.drugs.com/pro/water-for-injection.html"
+    },
+    {
+        "drugName": "Wegovy",
+        "drugLink": "https://www.drugs.com/wegovy.html"
+    },
+    {
+        "drugName": "Welchol",
+        "drugLink": "https://www.drugs.com/mtm/welchol.html"
+    },
+    {
+        "drugName": "Wellbutrin",
+        "drugLink": "https://www.drugs.com/wellbutrin.html"
+    },
+    {
+        "drugName": "Wellbutrin SR",
+        "drugLink": "https://www.drugs.com/mtm/wellbutrin-sr.html"
+    },
+    {
+        "drugName": "Wellbutrin XL",
+        "drugLink": "https://www.drugs.com/mtm/wellbutrin-xl.html"
+    },
+    {
+        "drugName": "Westcort",
+        "drugLink": "https://www.drugs.com/pro/westcort.html"
+    },
+    {
+        "drugName": "Wine",
+        "drugLink": "https://www.drugs.com/npp/wine.html"
+    },
+    {
+        "drugName": "Winlevi",
+        "drugLink": "https://www.drugs.com/winlevi.html"
+    },
+    {
+        "drugName": "Witch hazel topical",
+        "drugLink": "https://www.drugs.com/mtm/witch-hazel-topical.html"
+    },
+    {
+        "drugName": "Wixela Inhub",
+        "drugLink": "https://www.drugs.com/pro/wixela-inhub.html"
+    },
+    {
+        "drugName": "Wormwood",
+        "drugLink": "https://www.drugs.com/npp/wormwood.html"
+    },
+    {
+        "drugName": "WP Thyroid",
+        "drugLink": "https://www.drugs.com/mtm/wp-thyroid.html"
+    },
+    {
+        "drugName": "Wymzya Fe",
+        "drugLink": "https://www.drugs.com/pro/wymzya-fe.html"
+    },
+    {
+        "drugName": "Wynzora",
+        "drugLink": "https://www.drugs.com/mtm/wynzora.html"
+    },
+    {
+        "drugName": "Xadago",
+        "drugLink": "https://www.drugs.com/xadago.html"
+    },
+    {
+        "drugName": "Xalatan",
+        "drugLink": "https://www.drugs.com/xalatan.html"
+    },
+    {
+        "drugName": "Xalkori",
+        "drugLink": "https://www.drugs.com/xalkori.html"
+    },
+    {
+        "drugName": "Xanax",
+        "drugLink": "https://www.drugs.com/xanax.html"
+    },
+    {
+        "drugName": "Xanax XR",
+        "drugLink": "https://www.drugs.com/xanax_xr.html"
+    },
+    {
+        "drugName": "Xarelto",
+        "drugLink": "https://www.drugs.com/xarelto.html"
+    },
+    {
+        "drugName": "Xcopri",
+        "drugLink": "https://www.drugs.com/xcopri.html"
+    },
+    {
+        "drugName": "Xeljanz",
+        "drugLink": "https://www.drugs.com/xeljanz.html"
+    },
+    {
+        "drugName": "Xeljanz XR",
+        "drugLink": "https://www.drugs.com/mtm/xeljanz-xr.html"
+    },
+    {
+        "drugName": "Xeloda",
+        "drugLink": "https://www.drugs.com/xeloda.html"
+    },
+    {
+        "drugName": "Xelstrym",
+        "drugLink": "https://www.drugs.com/xelstrym.html"
+    },
+    {
+        "drugName": "Xembify",
+        "drugLink": "https://www.drugs.com/pro/xembify.html"
+    },
+    {
+        "drugName": "Xenazine",
+        "drugLink": "https://www.drugs.com/xenazine.html"
+    },
+    {
+        "drugName": "Xenical",
+        "drugLink": "https://www.drugs.com/xenical.html"
+    },
+    {
+        "drugName": "Xenleta",
+        "drugLink": "https://www.drugs.com/cons/xenleta.html"
+    },
+    {
+        "drugName": "Xeomin",
+        "drugLink": "https://www.drugs.com/xeomin.html"
+    },
+    {
+        "drugName": "Xgeva",
+        "drugLink": "https://www.drugs.com/xgeva.html"
+    },
+    {
+        "drugName": "Xhance",
+        "drugLink": "https://www.drugs.com/cons/xhance.html"
+    },
+    {
+        "drugName": "Xiaflex",
+        "drugLink": "https://www.drugs.com/xiaflex.html"
+    },
+    {
+        "drugName": "Xifaxan",
+        "drugLink": "https://www.drugs.com/xifaxan.html"
+    },
+    {
+        "drugName": "Xigduo XR",
+        "drugLink": "https://www.drugs.com/xigduo-xr.html"
+    },
+    {
+        "drugName": "Xiidra",
+        "drugLink": "https://www.drugs.com/xiidra.html"
+    },
+    {
+        "drugName": "Xofigo",
+        "drugLink": "https://www.drugs.com/xofigo.html"
+    },
+    {
+        "drugName": "Xofluza",
+        "drugLink": "https://www.drugs.com/xofluza.html"
+    },
+    {
+        "drugName": "Xolair",
+        "drugLink": "https://www.drugs.com/xolair.html"
+    },
+    {
+        "drugName": "Xopenex",
+        "drugLink": "https://www.drugs.com/xopenex.html"
+    },
+    {
+        "drugName": "Xopenex HFA",
+        "drugLink": "https://www.drugs.com/mtm/xopenex-hfa.html"
+    },
+    {
+        "drugName": "Xpovio",
+        "drugLink": "https://www.drugs.com/xpovio.html"
+    },
+    {
+        "drugName": "Xtampza ER",
+        "drugLink": "https://www.drugs.com/xtampza-er.html"
+    },
+    {
+        "drugName": "Xtandi",
+        "drugLink": "https://www.drugs.com/xtandi.html"
+    },
+    {
+        "drugName": "Xulane",
+        "drugLink": "https://www.drugs.com/mtm/xulane-transdermal.html"
+    },
+    {
+        "drugName": "Xultophy",
+        "drugLink": "https://www.drugs.com/xultophy.html"
+    },
+    {
+        "drugName": "Xylitol",
+        "drugLink": "https://www.drugs.com/npc/xylitol.html"
+    },
+    {
+        "drugName": "Xylocaine",
+        "drugLink": "https://www.drugs.com/pro/xylocaine.html"
+    },
+    {
+        "drugName": "Xylocaine Jelly",
+        "drugLink": "https://www.drugs.com/pro/xylocaine-jelly.html"
+    },
+    {
+        "drugName": "Xylocaine-MPF",
+        "drugLink": "https://www.drugs.com/mtm/xylocaine-mpf.html"
+    },
+    {
+        "drugName": "Xyosted",
+        "drugLink": "https://www.drugs.com/xyosted.html"
+    },
+    {
+        "drugName": "Xyrem",
+        "drugLink": "https://www.drugs.com/xyrem.html"
+    },
+    {
+        "drugName": "Xywav",
+        "drugLink": "https://www.drugs.com/xywav.html"
+    },
+    {
+        "drugName": "Xyzal",
+        "drugLink": "https://www.drugs.com/xyzal.html"
+    },
+    {
+        "drugName": "Yasmin",
+        "drugLink": "https://www.drugs.com/yasmin.html"
+    },
+    {
+        "drugName": "Yaz",
+        "drugLink": "https://www.drugs.com/yaz.html"
+    },
+    {
+        "drugName": "Yellow fever vaccine",
+        "drugLink": "https://www.drugs.com/mtm/yellow-fever-vaccine.html"
+    },
+    {
+        "drugName": "Yervoy",
+        "drugLink": "https://www.drugs.com/yervoy.html"
+    },
+    {
+        "drugName": "Yescarta",
+        "drugLink": "https://www.drugs.com/yescarta.html"
+    },
+    {
+        "drugName": "Yohimbine",
+        "drugLink": "https://www.drugs.com/cons/yohimbine.html"
+    },
+    {
+        "drugName": "Yondelis",
+        "drugLink": "https://www.drugs.com/yondelis.html"
+    },
+    {
+        "drugName": "Yonsa",
+        "drugLink": "https://www.drugs.com/mtm/yonsa.html"
+    },
+    {
+        "drugName": "Yosprala",
+        "drugLink": "https://www.drugs.com/yosprala.html"
+    },
+    {
+        "drugName": "Yupelri",
+        "drugLink": "https://www.drugs.com/yupelri.html"
+    },
+    {
+        "drugName": "Yuvafem",
+        "drugLink": "https://www.drugs.com/pro/yuvafem.html"
+    },
+    {
+        "drugName": "Zaditor",
+        "drugLink": "https://www.drugs.com/mtm/zaditor.html"
+    },
+    {
+        "drugName": "Zafirlukast",
+        "drugLink": "https://www.drugs.com/mtm/zafirlukast.html"
+    },
+    {
+        "drugName": "Zaleplon",
+        "drugLink": "https://www.drugs.com/mtm/zaleplon.html"
+    },
+    {
+        "drugName": "Zanaflex",
+        "drugLink": "https://www.drugs.com/zanaflex.html"
+    },
+    {
+        "drugName": "Zantac",
+        "drugLink": "https://www.drugs.com/zantac.html"
+    },
+    {
+        "drugName": "Zaroxolyn",
+        "drugLink": "https://www.drugs.com/mtm/zaroxolyn.html"
+    },
+    {
+        "drugName": "Zarxio",
+        "drugLink": "https://www.drugs.com/zarxio.html"
+    },
+    {
+        "drugName": "Zebeta",
+        "drugLink": "https://www.drugs.com/zebeta.html"
+    },
+    {
+        "drugName": "Zegalogue",
+        "drugLink": "https://www.drugs.com/zegalogue.html"
+    },
+    {
+        "drugName": "Zenpep",
+        "drugLink": "https://www.drugs.com/zenpep.html"
+    },
+    {
+        "drugName": "Zeposia",
+        "drugLink": "https://www.drugs.com/zeposia.html"
+    },
+    {
+        "drugName": "Zestoretic",
+        "drugLink": "https://www.drugs.com/zestoretic.html"
+    },
+    {
+        "drugName": "Zestril",
+        "drugLink": "https://www.drugs.com/zestril.html"
+    },
+    {
+        "drugName": "Zetia",
+        "drugLink": "https://www.drugs.com/zetia.html"
+    },
+    {
+        "drugName": "Ziac",
+        "drugLink": "https://www.drugs.com/ziac.html"
+    },
+    {
+        "drugName": "Zidovudine",
+        "drugLink": "https://www.drugs.com/cons/zidovudine.html"
+    },
+    {
+        "drugName": "Zinc",
+        "drugLink": "https://www.drugs.com/mtm/zinc.html"
+    },
+    {
+        "drugName": "Zinc oxide topical",
+        "drugLink": "https://www.drugs.com/mtm/zinc-oxide-topical.html"
+    },
+    {
+        "drugName": "Zinc sulfate",
+        "drugLink": "https://www.drugs.com/mtm/zinc-sulfate.html"
+    },
+    {
+        "drugName": "Ziprasidone",
+        "drugLink": "https://www.drugs.com/mtm/ziprasidone.html"
+    },
+    {
+        "drugName": "Zithromax",
+        "drugLink": "https://www.drugs.com/zithromax.html"
+    },
+    {
+        "drugName": "Zocor",
+        "drugLink": "https://www.drugs.com/zocor.html"
+    },
+    {
+        "drugName": "Zofran",
+        "drugLink": "https://www.drugs.com/zofran.html"
+    },
+    {
+        "drugName": "Zofran ODT",
+        "drugLink": "https://www.drugs.com/mtm/zofran-odt.html"
+    },
+    {
+        "drugName": "Zoladex",
+        "drugLink": "https://www.drugs.com/zoladex.html"
+    },
+    {
+        "drugName": "Zoledronic acid",
+        "drugLink": "https://www.drugs.com/mtm/zoledronic-acid.html"
+    },
+    {
+        "drugName": "Zolmitriptan",
+        "drugLink": "https://www.drugs.com/mtm/zolmitriptan.html"
+    },
+    {
+        "drugName": "Zoloft",
+        "drugLink": "https://www.drugs.com/zoloft.html"
+    },
+    {
+        "drugName": "Zolpidem",
+        "drugLink": "https://www.drugs.com/zolpidem.html"
+    },
+    {
+        "drugName": "Zometa",
+        "drugLink": "https://www.drugs.com/zometa.html"
+    },
+    {
+        "drugName": "Zomig",
+        "drugLink": "https://www.drugs.com/zomig.html"
+    },
+    {
+        "drugName": "Zonegran",
+        "drugLink": "https://www.drugs.com/zonegran.html"
+    },
+    {
+        "drugName": "Zonisamide",
+        "drugLink": "https://www.drugs.com/mtm/zonisamide.html"
+    },
+    {
+        "drugName": "Zosyn",
+        "drugLink": "https://www.drugs.com/zosyn.html"
+    },
+    {
+        "drugName": "Zovirax",
+        "drugLink": "https://www.drugs.com/zovirax.html"
+    },
+    {
+        "drugName": "Zyban",
+        "drugLink": "https://www.drugs.com/zyban.html"
+    },
+    {
+        "drugName": "Zydelig",
+        "drugLink": "https://www.drugs.com/zydelig.html"
+    },
+    {
+        "drugName": "Zykadia",
+        "drugLink": "https://www.drugs.com/zykadia.html"
+    },
+    {
+        "drugName": "Zyloprim",
+        "drugLink": "https://www.drugs.com/cons/zyloprim.html"
+    },
+    {
+        "drugName": "Zyprexa",
+        "drugLink": "https://www.drugs.com/zyprexa.html"
+    },
+    {
+        "drugName": "Zyrtec",
+        "drugLink": "https://www.drugs.com/zyrtec.html"
+    },
+    {
+        "drugName": "Zyrtec-D",
+        "drugLink": "https://www.drugs.com/mtm/zyrtec-d.html"
+    },
+    {
+        "drugName": "Zytiga",
+        "drugLink": "https://www.drugs.com/zytiga.html"
+    },
+    {
+        "drugName": "Zyvox",
+        "drugLink": "https://www.drugs.com/zyvox.html"
+    },

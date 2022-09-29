@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "hackathon4.0",
-    "slug": "hackathon4.0",
+    "name": "Drugs List",
+    "slug": "nativebase_hackathon",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/drugs.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/drugs.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "arivappa.drugs_list"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "471a6748-c174-491e-bec6-b4d30c7b48c1"
+      }
     }
   }
 }
